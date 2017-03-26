@@ -3,94 +3,92 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-03-26 11:53+0400\n"
-"PO-Revision-Date: 2017-03-26 11:55+0400\n"
-"Last-Translator: Alireza Savand <hello@gonevis.com>\n"
-"Language-Team: \n"
-"Language: fa\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.11\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
 
 #: admin.py:88
 msgid "Deactivate selected users"
-msgstr "غیر‌فعال‌سازی کازبران انتخاب شده"
+msgstr ""
 
 #: admin.py:95
 msgid "Log in"
-msgstr "ورود"
+msgstr ""
 
 #: models.py:105
 msgid "username"
-msgstr "نام کاربری"
+msgstr ""
 
 #: models.py:110
 msgid "email"
-msgstr "ایمیل"
+msgstr ""
 
 #: models.py:116
 msgid "name"
-msgstr "نام"
+msgstr ""
 
 #: models.py:122
 msgid "location"
-msgstr "مکان"
+msgstr ""
 
 #: models.py:128
 msgid "about"
-msgstr "درباره"
+msgstr ""
 
 #: models.py:135
 msgid "active"
-msgstr "فعال"
+msgstr ""
 
 #: models.py:139
 msgid "staff status"
-msgstr "وضعیت کارمند"
+msgstr ""
 
 #: models.py:143
 msgid "email verification token"
-msgstr "کد فعال سازی ایمیل"
+msgstr ""
 
 #: models.py:148
 msgid "receive email notification"
-msgstr "دریافت ایمیل فعال‌ساری"
+msgstr ""
 
 #: models.py:152
 msgid "date joined"
-msgstr "تاریخ عضویت"
+msgstr ""
 
 #: models.py:157
 msgid "updated"
-msgstr "بروزرسانی شده"
+msgstr ""
 
 #: models.py:169
 msgid "User"
-msgstr "کاربر"
+msgstr ""
 
 #: models.py:170
 msgid "Users"
-msgstr "کاربرها"
+msgstr ""
 
 #: models.py:336
 msgid "thumbnail 256x256"
-msgstr "بندانگشتی ۲۵۶x۲۵۶"
+msgstr ""
 
 #: models.py:342
 msgid "thumbnail 128x128"
-msgstr "بندانگشتی ۱۲۸x۱۲۸"
+msgstr ""
 
 #: models.py:348
 msgid "thumbnail 48x48"
-msgstr "بندانگشتی ۴۸x۴۸"
+msgstr ""
 
-# ورود به وبسایت
 #: views.py:79
 msgid "Login"
-msgstr "ورود"
+msgstr ""
