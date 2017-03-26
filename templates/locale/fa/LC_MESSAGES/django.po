@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-03-26 15:39+0400\n"
+"POT-Creation-Date: 2017-03-26 21:22+0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,6 +17,14 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Page not Found - AKA 404"
+msgstr ""
+
+msgid ""
+"<p>We're sorry, but we cannot find the page you're looking for.</p>\n"
+"<p>It might have been removed or never existed before.</p>"
+msgstr ""
 
 msgid "Your username and password didn't match. Please try again."
 msgstr ""
@@ -41,34 +49,493 @@ msgstr ""
 msgid "Sign out"
 msgstr ""
 
+msgid ""
+"Create a free website or write a blog with customizable templates and an "
+"advanced dashboard."
+msgstr ""
+
+msgid "GoNevis, blogging, blog, platform, free, website, build"
+msgstr ""
+
+msgid "SavandBros"
+msgstr ""
+
+msgid "GoNevis"
+msgstr ""
+
+msgid "Features"
+msgstr ""
+
+msgid "Get Started"
+msgstr ""
+
+msgid "Blog"
+msgstr ""
+
 msgid "Contact Us"
+msgstr ""
+
+msgid "Terms of Service"
+msgstr ""
+
+msgid "Privacy Policy"
+msgstr ""
+
+msgid "Site"
+msgstr ""
+
+msgid "doesn'texist!"
+msgstr ""
+
+msgid "Create"
+msgstr ""
+
+msgid "How Blogging &amp; Publishing Works"
+msgstr ""
+
+msgid "Write &amp; Publish with GoNevis"
+msgstr ""
+
+msgid "Editor"
+msgstr ""
+
+msgid "File Manager"
+msgstr ""
+
+msgid "Personalities"
+msgstr ""
+
+msgid "Search Engine"
+msgstr ""
+
+msgid "Appearance"
+msgstr ""
+
+msgid ""
+"We have an editor crafted for a nice experience with customization for extra "
+"productivity."
+msgstr ""
+
+msgid ""
+"You don't need any coding experience to write entries and publish pages, "
+"just type the content and you're good to go."
+msgstr ""
+
+msgid ""
+"Need some images or embedded media ? Easily drag and drop them into the "
+"editor and you have them all done."
+msgstr ""
+
+msgid ""
+"GoNevis is always enhancing the editor with new features to take publishing "
+"to whole new level. Yes, we do have a Dark mode on the editor as well ;)"
+msgstr ""
+
+msgid "File Manger"
+msgstr ""
+
+msgid ""
+"Drag and drop your media into the uploader to add it to your website. Add "
+"alt text, captions, and titles, and insert images your content."
+msgstr ""
+
+msgid ""
+"We’ve even added a few image editing tools you can have fun with. Not only "
+"images, you can upload and keep any kind of files, form Documents to Video "
+"and Musics."
+msgstr ""
+
+msgid "Users &amp; Personalities"
+msgstr ""
+
+msgid ""
+"Not everyone requires the same access to your website. Administrators manage "
+"the site, editors work with content, Editors write that content."
+msgstr ""
+
+msgid ""
+"This is how you're going to handle your team on each site, grow from single "
+"writer to thousands ;)"
+msgstr ""
+
+msgid "Search Engine Optimized"
+msgstr ""
+
+msgid ""
+"GoNevis is fully optimized for search engines and content sharing websites."
+msgstr ""
+
+msgid ""
+"When someone shares content from your website, related information such as "
+"Images, title, description and other data will be recognized to Social media."
+msgstr ""
+
+msgid ""
+"You can even customize the SEO behavior withing the site configuration and "
+"entry editor."
+msgstr ""
+
+msgid ""
+"Appearance Matters. We know that & we got it covered for you.<br>\n"
+"Browse all sorts of templates to choose the best one that suits your.<br>\n"
+"With just a few clicks, customize your theme and layout to fit your site "
+"look &amp; feel.\n"
+"          "
+msgstr ""
+
+msgid "Template Configuration"
+msgstr ""
+
+msgid ""
+"Each theme has different type of configuration and settings that you can use "
+"to customize your website template."
+msgstr ""
+
+msgid ""
+"GoNevis template configuration engine gets enhancement day by day and it's "
+"getting much advanced while keeping it simplicity to use."
+msgstr ""
+
+msgid "Create a free blog or website"
+msgstr ""
+
+msgid ""
+"GoNevis is a professional site and blog publishing platform. From simple "
+"personal blogging to professional publication web sites."
+msgstr ""
+
+msgid "Create a Website"
+msgstr ""
+
+msgid "Start a Blog"
+msgstr ""
+
+msgid "Free Subdomain"
+msgstr ""
+
+msgid "Get a free subdomain registered<br> under gonevis.com"
+msgstr ""
+
+msgid "Dashboard"
+msgstr ""
+
+msgid "Advanced dashboard built<br> to manage your site"
+msgstr ""
+
+msgid "Success"
+msgstr ""
+
+msgid "Turn your creativity into<br> success with GoNevis"
+msgstr ""
+
+msgid "An advanced dashboard is built to make your site even more awesome."
+msgstr ""
+
+msgid "Appearance Matters"
+msgstr ""
+
+msgid "We know that &amp; we got it covered for you."
+msgstr ""
+
+msgid " Browse all sorts of templates to choose the best one that suits your"
+msgstr ""
+
+msgid ""
+"\n"
+"                With just a few clicks, customize your theme and layout to\n"
+"                fit your site look  &amp; feel.\n"
+"              "
+msgstr ""
+
+#, python-format
+msgid "Mute %(entry_title)s thread"
+msgstr ""
+
+msgid ""
+"No longer want to receive notification for \"<strong>{{ entry_title }}</"
+"strong>\"."
 msgstr ""
 
 msgid "Mute thread"
 msgstr ""
 
-msgid "Author"
+msgid "responded to \"{{ object_title }}\""
 msgstr ""
 
-msgid "Comment"
+msgid "VIEW ON SITE"
 msgstr ""
 
-msgid "View this comment"
+msgid "VIEW ON SITE<"
 msgstr ""
 
-msgid "Email"
+msgid "Mute this thread"
 msgstr ""
 
-msgid "IP"
+#, python-format
+msgid ""
+"# %(user_name)s responded to \"%(object_title)s\"\n"
+"\n"
+"## %(user_name)s\n"
+"\n"
+"\n"
+"%(comment)s\n"
+"\n"
+"\n"
+"View on site: %(comment_link)s\n"
+"\n"
+"Mute this thread: %(unsubscribe_url)s\n"
+"\n"
+"Made by love and brought to you by GoNevis <3\n"
+"\n"
+"Sent by: %(gonevis_site_url)s"
 msgstr ""
 
-msgid "Flag this comment"
+msgid "{{ user_name }} responded to \"{{ object_title }}\""
 msgstr ""
 
-msgid "Delete this comment"
+#, python-format
+msgid ""
+"Hello,\n"
+"<br><br><br> You have asked to register an account at <b>"
+"%(gonevis_site_name)s</b>\n"
+"<br><br> You're in! Thanks for signing up for an account on GoNevis.com - to "
+"keep the dirty spammers out and make sure you're a human, please confirm "
+"email address within the next %(expiration_days)s\n"
+"              "
 msgstr ""
 
-msgid "Approve this comment"
+msgid "CONFIRM"
+msgstr ""
+
+msgid "Made with &hearts; and brought to you by GoNevis"
+msgstr ""
+
+#, python-format
+msgid ""
+"Hello,\n"
+"\n"
+"\n"
+"You have asked to register an account at %(gonevis_site_name)s.\n"
+"\n"
+"You're in! Thanks for signing up for an account on GoNevis.com - to keep\n"
+"the dirty spammers out and make sure you're a human, please click the\n"
+"following link within the next %(expiration_days)s\n"
+"days: %(confirmation_link)s\n"
+"\n"
+"\n"
+"ps: If this wasn't you, please ignore this email and your address will be\n"
+"removed from our records.\n"
+"\n"
+"Made by love and brought to you by GoNevis <3\n"
+"\n"
+"Sent by: %(gonevis_site_url)s\n"
+msgstr ""
+
+msgid "Welcome to {{ gonevis_site_name }} - Please confirm your email"
+msgstr ""
+
+msgid "CONTINUE READING<"
+msgstr ""
+
+msgid "CONTINUE READING"
+msgstr ""
+
+msgid "Unsubscribe"
+msgstr ""
+
+#, python-format
+msgid ""
+"# %(entry_title)s\n"
+"\n"
+"\n"
+"%(entry_description)s...\n"
+"\n"
+"\n"
+"Continue reading: %(entry_absolute_uri)s\n"
+"\n"
+"\n"
+"Made by love and brought to you by GoNevis <3\n"
+"\n"
+"Sent by: %(gonevis_site_url)s\n"
+"\n"
+"\n"
+"Unsubscribe: %(unsubscribe_url)s"
+msgstr ""
+
+#, python-format
+msgid "\"%(entry_title)s\" published in %(site_title)s"
+msgstr ""
+
+#, python-format
+msgid ""
+"Welcome\n"
+"<br><br>\n"
+"%(site_name)s is using GoNevis to publish things on the internet!\n"
+"<br><br>\n"
+"%(invited_by_name)s has invited you to join. Please click on the button\n"
+"below to activate your account.\n"
+"<br><br>\n"
+"If you have trouble activating your %(site_name)s account,\n"
+"you can reach out to %(invited_by_name)s on %(invited_by_email)s for\n"
+"assistance."
+msgstr ""
+
+msgid "ACTIVATE ACCOUNT<"
+msgstr ""
+
+msgid "ACTIVATE ACCOUNT"
+msgstr ""
+
+#, python-format
+msgid ""
+"\n"
+"Welcome\n"
+"\n"
+"%(site_name)s is using GoNevis to publish things on the internet!\n"
+"\n"
+"%(invited_by_name)s has invited you to join. Please click on the link\n"
+"below to activate your account.\n"
+"\n"
+"Click here to activate your account (%(activate_account)s)\n"
+"\n"
+"\n"
+"If you have trouble activating your %(site_name)s account,\n"
+"you can reach out to %(invited_by_name)s on %(invited_by_email)s for\n"
+"assistance.\n"
+"\n"
+"\n"
+"Made by love and brought to you by GoNevis <3\n"
+"\n"
+"Sent by: %(gonevis_site_url)s"
+msgstr ""
+
+msgid "[{{ site_name }}] Invitation to Collaborate"
+msgstr ""
+
+#, python-format
+msgid ""
+"Hello,\n"
+"<br><br><br>\n"
+"Good news! You've successfully created a brand new website.\n"
+"<br><br>\n"
+"You can log in to your admin account with the following details:\n"
+"<br><br><br>\n"
+"Dashboard: %(dash_url)s\n"
+"<br><br>\n"
+"Username: %(username)s\n"
+"<br><br>\n"
+"Password: The password you chose when you signed up."
+msgstr ""
+
+#, python-format
+msgid ""
+"Hello,\n"
+"\n"
+"\n"
+"Good news! You've successfully created a brand new website\n"
+"over on %(site_url)s\n"
+"\n"
+"You can log in to your admin account with the following details:\n"
+"\n"
+"Dashboard: %(dash_url)s\n"
+"\n"
+"Username: %(username)s\n"
+"\n"
+"Password: The password you chose when you signed up\n"
+"\n"
+"<3\n"
+"\n"
+"Team GoNevis\n"
+"\n"
+"%(gonevis_site_url)s"
+msgstr ""
+
+msgid "Your site {{ site_title }} is Ready"
+msgstr ""
+
+#, python-format
+msgid "%(invited_by_name)s has given you access to <b>%(site_name)s"
+msgstr ""
+
+msgid "VIEW SITE"
+msgstr ""
+
+#, python-format
+msgid ""
+"%(user_name)s,\n"
+"\n"
+"\n"
+"%(invited_by_name)s has given you access to [%(site_name)s](%(site_url)s).\n"
+"\n"
+"\n"
+"Made by love and brought to you by GoNevis <3\n"
+"\n"
+"Sent by: %(gonevis_site_url)s"
+msgstr ""
+
+msgid "You're now part of [{{ site_name }}]"
+msgstr ""
+
+#, python-format
+msgid ""
+"Hello %(user_name)s,\n"
+"<br><br><br>\n"
+"Please click the button below to reset your password:\n"
+"<br><br>\n"
+"If you didn't request this password reset, please ignore it."
+msgstr ""
+
+msgid "RESET PASSWORD"
+msgstr ""
+
+#, python-format
+msgid ""
+"Hello %(user_name)s,\n"
+"\n"
+"\n"
+"Please follow the link to reset your password:\n"
+"\n"
+"%(password_reset_link)s\n"
+"\n"
+"\n"
+"If you didn't request this password reset, please ignore it.\n"
+"\n"
+"<3\n"
+"\n"
+"%(gonevis_site_url)s"
+msgstr ""
+
+msgid "GoNevis Account Reset Password"
+msgstr ""
+
+#, python-format
+msgid ""
+"Hello %(site_owner_name)s,\n"
+"<br><br>\n"
+"You got a new subscriber.\n"
+"<br><br><br>\n"
+"%(subscriber_name)s subscribed to your site %(site_title)s and started "
+"following."
+msgstr ""
+
+#, python-format
+msgid ""
+"Hello %(site_owner_name)s,\n"
+"\n"
+"You got a new subscriber.\n"
+"\n"
+"\n"
+"%(subscriber_name)s subscribed to your site \"%(site_title)s\" and started\n"
+"following.\n"
+"\n"
+"\n"
+"Made by love and brought to you by GoNevis <3\n"
+"\n"
+"Sent by: %(gonevis_site_url)s"
+msgstr ""
+
+#, python-format
+msgid "%(subscriber_name)s started following your site on GoNevis"
 msgstr ""
 
 msgid "Powered by "
@@ -106,6 +573,12 @@ msgstr[1] ""
 msgid "No similar entries."
 msgstr ""
 
+msgid "&larr; Newer"
+msgstr ""
+
+msgid "Older &rarr;"
+msgstr ""
+
 msgid "Keywords..."
 msgstr ""
 
@@ -122,4 +595,67 @@ msgstr[0] ""
 msgstr[1] ""
 
 msgid "No tags yet."
+msgstr ""
+
+msgid "DRAFT"
+msgstr ""
+
+msgid "FOUND:"
+msgstr ""
+
+#, python-format
+msgid "RSS feed for %(tag_name)s"
+msgstr ""
+
+#, python-format
+msgid "Couldn't find any match for <b>'%(search_query)s'</b>"
+msgstr ""
+
+msgid "Let's head to <a href=\"/\"><i class=\"fa fa-home\"></i> home</a>"
+msgstr ""
+
+msgid "Couldn't find any match for <b>'{{ search_query }}'</b>"
+msgstr ""
+
+msgid "Try other keywords..."
+msgstr ""
+
+msgid "Or go <a href=\"/\">home</a>"
+msgstr ""
+
+msgid "Results for <b>{{ search_query }}</b>"
+msgstr ""
+
+#, python-format
+msgid "Found %(entry_count)s"
+msgstr ""
+
+msgid "ago"
+msgstr ""
+
+msgid "RSS feed"
+msgstr ""
+
+msgid "Featured"
+msgstr ""
+
+msgid "Subscribe"
+msgstr ""
+
+msgid "Subscribed"
+msgstr ""
+
+msgid "Log out"
+msgstr ""
+
+msgid "Sign in"
+msgstr ""
+
+msgid "Username"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Search"
 msgstr ""
