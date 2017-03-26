@@ -3,20 +3,20 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-03-26 12:10+0400\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2017-03-26 12:16+0400\n"
+"Language: fa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"Last-Translator: Alireza Savand <hello@gonevis.com>\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.8.11\n"
 
 #: models.py:27
 msgid "vote count"
@@ -24,47 +24,47 @@ msgstr ""
 
 #: models.py:137
 msgid "Pending Approval"
-msgstr ""
+msgstr "منتظر برای موافقت"
 
 #: models.py:138
 msgid "Active"
-msgstr ""
+msgstr "فعال"
 
 #: models.py:139
 msgid "Hidden"
-msgstr ""
+msgstr "مخفی"
 
 #: models.py:149
 msgid "user"
-msgstr ""
+msgstr "کاربر"
 
 #: models.py:155 models.py:179
 msgid "comment"
-msgstr ""
+msgstr "نظر"
 
 #: models.py:157
 msgid "status"
-msgstr ""
+msgstr "وضعیت"
 
 #: models.py:162 models.py:378 models.py:435 models.py:493
 msgid "created"
-msgstr ""
+msgstr "ایجاد شده"
 
 #: models.py:167
 msgid "updated"
-msgstr ""
+msgstr "بروزرسانی شده"
 
 #: models.py:180
 msgid "comments"
-msgstr ""
+msgstr "نظر‌ها"
 
 #: models.py:199
 msgid "Commented object"
-msgstr ""
+msgstr "شي کامنت داده شده"
 
 #: models.py:213
 msgid "Comment summary"
-msgstr ""
+msgstr "خلاصه نظر"
 
 #: models.py:235
 #, python-brace-format
@@ -78,24 +78,24 @@ msgstr ""
 
 #: models.py:394
 msgid "vote"
-msgstr ""
+msgstr "رأی"
 
 #: models.py:395
 msgid "votes"
-msgstr ""
+msgstr "رای‌ها"
 
 #: models.py:442
 msgid "Subscription"
-msgstr ""
+msgstr "دنبال"
 
 #: models.py:443
 msgid "Subscriptions"
-msgstr ""
+msgstr "دنبال‌ها"
 
 #: models.py:499
 msgid "Subscription Mute"
-msgstr ""
+msgstr "ساکت کردن دنبال"
 
 #: models.py:500
 msgid "Subscription Mutes"
-msgstr ""
+msgstr "ساکت کردن دنبال‌ها"
