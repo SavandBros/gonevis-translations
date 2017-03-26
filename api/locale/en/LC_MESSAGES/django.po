@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-03-26 12:08+0400\n"
+"POT-Creation-Date: 2017-03-26 15:39+0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,151 +17,116 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: v1/account/serializers.py:196
 msgid "The old password is not valid."
 msgstr ""
 
-#: v1/account/serializers.py:307
 #, python-brace-format
 msgid "Cannot find any account registered with {email}"
 msgstr ""
 
-#: v1/account/texts.py:6
 #, python-brace-format
 msgid "Username {username} exists in our database."
 msgstr ""
 
-#: v1/account/texts.py:7
 msgid "Unable to login with provided credentials."
 msgstr ""
 
-#: v1/account/texts.py:9
 #, python-brace-format
 msgid "Must include \"{username_field}\" and \"password\"."
 msgstr ""
 
-#: v1/account/texts.py:11
 msgid "User account is disabled."
 msgstr ""
 
-#: v1/account/texts.py:12
 #, python-brace-format
 msgid "Email {email} exists in our database."
 msgstr ""
 
-#: v1/account/texts.py:13
 msgid "Invalid resend email confirmation."
 msgstr ""
 
-#: v1/account/texts.py:14
 msgid "Invalid Email Verification token."
 msgstr ""
 
-#: v1/account/texts.py:15
 msgid "Only images are allowed to be uploaded."
 msgstr ""
 
-#: v1/account/texts.py:16
 msgid "Invitation ID is not valid."
 msgstr ""
 
-#: v1/dolphin/serializers.py:66
 msgid "This type of file is not allowed for upload."
 msgstr ""
 
-#: v1/dolphin/texts.py:5
 msgid "No space left to upload file."
 msgstr ""
 
-#: v1/site/serializers.py:67
 #, python-brace-format
 msgid "Domain {0} exists in our database."
 msgstr ""
 
-#: v1/site/serializers.py:191
 msgid "You're not owner of the site."
 msgstr ""
 
-#: v1/site/serializers.py:215
 msgid "What?"
 msgstr ""
 
-#: v1/site/serializers.py:374
 msgid "It's not possible to promote a user to be an Owner."
 msgstr ""
 
-#: v1/site/serializers.py:386
 msgid "Please don't do self promotion."
 msgstr ""
 
-#: v1/site/serializers.py:391
 msgid "This email is already team member."
 msgstr ""
 
-#: v1/site/serializers.py:395
 msgid "Already has been invited."
 msgstr ""
 
-#: v1/site/serializers.py:544
 msgid "Cannot find the selected template."
 msgstr ""
 
-#: v1/site/serializers.py:579
 #, python-brace-format
 msgid "Config field {0} is required."
 msgstr ""
 
-#: v1/site/serializers.py:585
 #, python-brace-format
 msgid "Config field {0} does not exists."
 msgstr ""
 
-#: v1/site/texts.py:6
 msgid "Unknown team member."
 msgstr ""
 
-#: v1/site/texts.py:7
 msgid "Website owner cannot be removed from team."
 msgstr ""
 
-#: v1/site/texts.py:8
 msgid "Sorry, this URL is reserved."
 msgstr ""
 
-#: v1/site/validators.py:28
 msgid "Please upload a valid ZIP file."
 msgstr ""
 
-#: v1/site/validators.py:36
 #, python-brace-format
 msgid "{0} is missing from ZIP file."
 msgstr ""
 
-#: v1/site/validators.py:43
 #, python-brace-format
 msgid "{0} (Content Place holder) was not found in  {1}."
 msgstr ""
 
-#: v1/site/validators.py:67
 msgid "Cannot parse the gonevis.json config"
 msgstr ""
 
-#: v1/sushial/serializers.py:65
 msgid "Site error conflict!"
 msgstr ""
 
-#: v1/sushial/serializers.py:70
 msgid "You're not owner of this site"
 msgstr ""
 
-#: v1/sushial/serializers.py:78
 msgid "Object Doesn't Exist"
 msgstr ""
 
-#: v1/sushial/texts.py:5
 msgid "Commenting is not enabled."
 msgstr ""
 
-#: zero/website/texts.py:4
 msgid "Commenting is disabled."
 msgstr ""

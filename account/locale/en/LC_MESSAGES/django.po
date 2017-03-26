@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-03-26 12:08+0400\n"
+"POT-Creation-Date: 2017-03-26 15:39+0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,78 +17,59 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: admin.py:88
 msgid "Deactivate selected users"
 msgstr ""
 
-#: admin.py:95
 msgid "Log in"
 msgstr ""
 
-#: models.py:105
 msgid "username"
 msgstr ""
 
-#: models.py:110
 msgid "email"
 msgstr ""
 
-#: models.py:116
 msgid "name"
 msgstr ""
 
-#: models.py:122
 msgid "location"
 msgstr ""
 
-#: models.py:128
 msgid "about"
 msgstr ""
 
-#: models.py:135
 msgid "active"
 msgstr ""
 
-#: models.py:139
 msgid "staff status"
 msgstr ""
 
-#: models.py:143
 msgid "email verification token"
 msgstr ""
 
-#: models.py:148
 msgid "receive email notification"
 msgstr ""
 
-#: models.py:152
 msgid "date joined"
 msgstr ""
 
-#: models.py:157
 msgid "updated"
 msgstr ""
 
-#: models.py:169
 msgid "User"
 msgstr ""
 
-#: models.py:170
 msgid "Users"
 msgstr ""
 
-#: models.py:336
 msgid "thumbnail 256x256"
 msgstr ""
 
-#: models.py:342
 msgid "thumbnail 128x128"
 msgstr ""
 
-#: models.py:348
 msgid "thumbnail 48x48"
 msgstr ""
 
-#: views.py:79
 msgid "Login"
 msgstr ""

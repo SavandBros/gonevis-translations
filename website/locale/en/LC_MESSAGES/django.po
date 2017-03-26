@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-03-26 12:08+0400\n"
+"POT-Creation-Date: 2017-03-26 15:39+0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,262 +17,196 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: admin.py:125
 msgid "tag list"
 msgstr ""
 
-#: apps.py:11
 msgid "Web Site"
 msgstr ""
 
-#: feeds.py:47
 #, python-brace-format
 msgid "Last entries on the {site_name}"
 msgstr ""
 
-#: feeds.py:61
 msgid "Last entries"
 msgstr ""
 
-#: feeds.py:72
 msgid "Tags"
 msgstr ""
 
-#: feeds.py:126
 #, python-brace-format
 msgid "Search {query}"
 msgstr ""
 
-#: models.py:48
 msgid "owner"
 msgstr ""
 
-#: models.py:49
 msgid "administrator"
 msgstr ""
 
-#: models.py:50
 msgid "editor"
 msgstr ""
 
-#: models.py:77
 msgid "roles"
 msgstr ""
 
-#: models.py:79 models.py:490
 msgid "title"
 msgstr ""
 
-#: models.py:83
 msgid "description"
 msgstr ""
 
-#: models.py:89
 msgid "URL"
 msgstr ""
 
-#: models.py:99
 msgid "template"
 msgstr ""
 
-#: models.py:100
 msgid "settings"
 msgstr ""
 
-#: models.py:122 models.py:592 models.py:992
 msgid "created"
 msgstr ""
 
-#: models.py:127 models.py:598 models.py:997
 msgid "updated"
 msgstr ""
 
-#: models.py:134
 msgid "site"
 msgstr ""
 
-#: models.py:135
 msgid "sites"
 msgstr ""
 
-#: models.py:470
 msgid "Draft"
 msgstr ""
 
-#: models.py:471
 msgid "Published"
 msgstr ""
 
-#: models.py:474
 msgid "Text"
 msgstr ""
 
-#: models.py:475
 msgid "Image"
 msgstr ""
 
-#: models.py:476
 msgid "Video"
 msgstr ""
 
-#: models.py:477
 msgid "Audio"
 msgstr ""
 
-#: models.py:478
 msgid "Status"
 msgstr ""
 
-#: models.py:494
 msgid "slug"
 msgstr ""
 
-#: models.py:496
 msgid "Used to build the entry's URL."
 msgstr ""
 
-#: models.py:500
 msgid "lead"
 msgstr ""
 
-#: models.py:502
 msgid "Lead paragraph"
 msgstr ""
 
-#: models.py:505
 msgid "excerpt"
 msgstr ""
 
-#: models.py:507
 msgid "Used for SEO purposes."
 msgstr ""
 
-#: models.py:509
 msgid "content"
 msgstr ""
 
-#: models.py:524
 msgid "status"
 msgstr ""
 
-#: models.py:530
 msgid "format"
 msgstr ""
 
-#: models.py:539
 msgid "comments enabled"
 msgstr ""
 
-#: models.py:540
 msgid "Allows comments if checked."
 msgstr ""
 
-#: models.py:544
 msgid "featured"
 msgstr ""
 
-#: models.py:548
 msgid "password"
 msgstr ""
 
-#: models.py:549
 msgid "Protects the entry with a password."
 msgstr ""
 
-#: models.py:554
 msgid "view count"
 msgstr ""
 
-#: models.py:561
 msgid "publication date"
 msgstr ""
 
-#: models.py:567
 msgid "start publication"
 msgstr ""
 
-#: models.py:574
 msgid "comemnt count"
 msgstr ""
 
-#: models.py:578
 msgid "active comment count"
 msgstr ""
 
-#: models.py:582
 msgid "hidden comment count"
 msgstr ""
 
-#: models.py:586
 msgid "pending comment count"
 msgstr ""
 
-#: models.py:608
 msgid "Entry"
 msgstr ""
 
-#: models.py:609
 msgid "Entries"
 msgstr ""
 
-#: models.py:921
 msgid "invite"
 msgstr ""
 
-#: models.py:922
 msgid "invites"
 msgstr ""
 
-#: models.py:981
 msgid "name"
 msgstr ""
 
-#: models.py:985
 msgid "config"
 msgstr ""
 
-#: models.py:987
 msgid "need sync"
 msgstr ""
 
-#: models.py:1004
 msgid "Site Template"
 msgstr ""
 
-#: models.py:1005
 msgid "Site Templates"
 msgstr ""
 
-#: models.py:1058
 msgid "screen shot"
 msgstr ""
 
-#: models.py:1064
 msgid "thumbnail 256x256"
 msgstr ""
 
-#: models.py:1070
 msgid "thumbnail 128x128"
 msgstr ""
 
-#: models.py:1076
 msgid "thumbnail 48x48"
 msgstr ""
 
-#: tests/templates/template_base.html:11
-#: tests/templates/unclean_text_to_sanitize.html:12
 msgid "Just another Nevis Site."
 msgstr ""
 
-#: tests/templates/template_base.html:72
-#: tests/templates/unclean_text_to_sanitize.html:81
 msgid "Powered by <a href=\"https://www.gonevis.com\">GoNevis</a>."
 msgstr ""
 
-#: views.py:249
 msgid "The search query is too short."
 msgstr ""
 
-#: views.py:253
 msgid "No keyword to search found."
 msgstr ""

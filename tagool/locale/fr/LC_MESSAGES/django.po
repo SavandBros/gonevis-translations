@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-03-26 15:05+0400\n"
+"POT-Creation-Date: 2017-03-26 15:39+0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,42 +18,32 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-#: models.py:97
 msgid "name"
 msgstr ""
 
-#: models.py:99
 msgid "slug"
 msgstr ""
 
-#: models.py:106
 msgid "description"
 msgstr ""
 
-#: models.py:123
 msgid "tagged items count"
 msgstr ""
 
-#: models.py:128
 msgid "created"
 msgstr ""
 
-#: models.py:133
 msgid "updated"
 msgstr ""
 
-#: models.py:158
 msgid "Tag"
 msgstr ""
 
-#: models.py:159
 msgid "Tags"
 msgstr ""
 
-#: models.py:291
 msgid "Tagged Item"
 msgstr ""
 
-#: models.py:292
 msgid "Tagged Items"
 msgstr ""

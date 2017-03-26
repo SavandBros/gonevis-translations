@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-03-26 12:08+0400\n"
+"POT-Creation-Date: 2017-03-26 15:39+0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,50 +17,38 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: models.py:25
 msgid "Entry"
 msgstr ""
 
-#: models.py:26
 msgid "Comment"
 msgstr ""
 
-#: models.py:27
 msgid "Site"
 msgstr ""
 
-#: models.py:31
 msgid "object type"
 msgstr ""
 
-#: models.py:36
 msgid "object ID"
 msgstr ""
 
-#: views.py:91
 msgid "Terms of Service"
 msgstr ""
 
-#: views.py:92
 msgid "Terms of service of GoNevis.com"
 msgstr ""
 
-#: views.py:98
 msgid "Privacy Policy"
 msgstr ""
 
-#: views.py:104
 msgid "Mature Content"
 msgstr ""
 
-#: views.py:110
 msgid "User Guidelines"
 msgstr ""
 
-#: views.py:117
 msgid "Contact us"
 msgstr ""
 
-#: views.py:118
 msgid "Contact us page of GoNevis.com, hello ;)"
 msgstr ""
