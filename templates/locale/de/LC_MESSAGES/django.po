@@ -8,7 +8,6 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-03-26 21:22+0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,12 +17,13 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "Page not Found - AKA 404"
+msgid "Sorry, page doesn't exist!"
 msgstr ""
 
-msgid ""
-"<p>We're sorry, but we cannot find the page you're looking for.</p>\n"
-"<p>It might have been removed or never existed before.</p>"
+msgid "It might have been removed or never existed before."
+msgstr ""
+
+msgid "Go home"
 msgstr ""
 
 msgid "Your username and password didn't match. Please try again."
@@ -63,37 +63,13 @@ msgstr ""
 msgid "GoNevis"
 msgstr ""
 
+msgid "Toggle navigation"
+msgstr ""
+
 msgid "Features"
 msgstr ""
 
 msgid "Get Started"
-msgstr ""
-
-msgid "Blog"
-msgstr ""
-
-msgid "Contact Us"
-msgstr ""
-
-msgid "Terms of Service"
-msgstr ""
-
-msgid "Privacy Policy"
-msgstr ""
-
-msgid "Site"
-msgstr ""
-
-msgid "doesn'texist!"
-msgstr ""
-
-msgid "Create"
-msgstr ""
-
-msgid "How Blogging &amp; Publishing Works"
-msgstr ""
-
-msgid "Write &amp; Publish with GoNevis"
 msgstr ""
 
 msgid "Editor"
@@ -109,6 +85,37 @@ msgid "Search Engine"
 msgstr ""
 
 msgid "Appearance"
+msgstr ""
+
+msgid "Blog"
+msgstr ""
+
+msgid "About Us"
+msgstr ""
+
+msgid "Contact Us"
+msgstr ""
+
+msgid "Terms of Service"
+msgstr ""
+
+msgid "Privacy Policy"
+msgstr ""
+
+msgid "&copy; 2017 GoNevis.com"
+msgstr ""
+
+#, python-format
+msgid "<small>Site</small> <b>%(site_name)s</b> <small>doesn't exist!</small>"
+msgstr ""
+
+msgid "Create"
+msgstr ""
+
+msgid "How Blogging &amp; Publishing Works"
+msgstr ""
+
+msgid "Write &amp; Publish with GoNevis"
 msgstr ""
 
 msgid ""
@@ -175,12 +182,15 @@ msgid ""
 "entry editor."
 msgstr ""
 
+msgid "Appearance Matters. We know that & we got it covered for you."
+msgstr ""
+
+msgid "Browse all sorts of templates to choose the best one that suits you."
+msgstr ""
+
 msgid ""
-"Appearance Matters. We know that & we got it covered for you.<br>\n"
-"Browse all sorts of templates to choose the best one that suits your.<br>\n"
 "With just a few clicks, customize your theme and layout to fit your site "
-"look &amp; feel.\n"
-"          "
+"look &amp; feel."
 msgstr ""
 
 msgid "Template Configuration"
@@ -241,25 +251,46 @@ msgid " Browse all sorts of templates to choose the best one that suits your"
 msgstr ""
 
 msgid ""
-"\n"
-"                With just a few clicks, customize your theme and layout to\n"
-"                fit your site look  &amp; feel.\n"
-"              "
+"When someone shares content from your website, related information such as "
+"images, title, description and other data that will be recognized to Social "
+"media."
+msgstr ""
+
+msgid ""
+"You can even customize the SEO behavior within the site configuration and "
+"entry editor."
+msgstr ""
+
+msgid "Sign up for Free"
 msgstr ""
 
 #, python-format
 msgid "Mute %(entry_title)s thread"
 msgstr ""
 
-msgid ""
-"No longer want to receive notification for \"<strong>{{ entry_title }}</"
-"strong>\"."
+#, python-format
+msgid "No longer want to receive notification for \"<b>%(entry_title)s</b>\"."
 msgstr ""
 
 msgid "Mute thread"
 msgstr ""
 
-msgid "responded to \"{{ object_title }}\""
+#, python-format
+msgid "Published by %(user_name)s"
+msgstr ""
+
+msgid "Read more..."
+msgstr ""
+
+#, python-format
+msgid "%(user_name)s hasn't published anything yet."
+msgstr ""
+
+msgid "Publications"
+msgstr ""
+
+#, python-format
+msgid "%(user_name)s responded to \"%(object_title)s\""
 msgstr ""
 
 msgid "VIEW ON SITE"
@@ -273,65 +304,18 @@ msgstr ""
 
 #, python-format
 msgid ""
-"# %(user_name)s responded to \"%(object_title)s\"\n"
-"\n"
-"## %(user_name)s\n"
-"\n"
-"\n"
-"%(comment)s\n"
-"\n"
-"\n"
-"View on site: %(comment_link)s\n"
-"\n"
-"Mute this thread: %(unsubscribe_url)s\n"
-"\n"
-"Made by love and brought to you by GoNevis <3\n"
-"\n"
-"Sent by: %(gonevis_site_url)s"
-msgstr ""
-
-msgid "{{ user_name }} responded to \"{{ object_title }}\""
-msgstr ""
-
-#, python-format
-msgid ""
 "Hello,\n"
 "<br><br><br> You have asked to register an account at <b>"
 "%(gonevis_site_name)s</b>\n"
 "<br><br> You're in! Thanks for signing up for an account on GoNevis.com - to "
 "keep the dirty spammers out and make sure you're a human, please confirm "
-"email address within the next %(expiration_days)s\n"
-"              "
+"email address within the next %(expiration_days)s days."
 msgstr ""
 
 msgid "CONFIRM"
 msgstr ""
 
 msgid "Made with &hearts; and brought to you by GoNevis"
-msgstr ""
-
-#, python-format
-msgid ""
-"Hello,\n"
-"\n"
-"\n"
-"You have asked to register an account at %(gonevis_site_name)s.\n"
-"\n"
-"You're in! Thanks for signing up for an account on GoNevis.com - to keep\n"
-"the dirty spammers out and make sure you're a human, please click the\n"
-"following link within the next %(expiration_days)s\n"
-"days: %(confirmation_link)s\n"
-"\n"
-"\n"
-"ps: If this wasn't you, please ignore this email and your address will be\n"
-"removed from our records.\n"
-"\n"
-"Made by love and brought to you by GoNevis <3\n"
-"\n"
-"Sent by: %(gonevis_site_url)s\n"
-msgstr ""
-
-msgid "Welcome to {{ gonevis_site_name }} - Please confirm your email"
 msgstr ""
 
 msgid "CONTINUE READING<"
@@ -341,29 +325,6 @@ msgid "CONTINUE READING"
 msgstr ""
 
 msgid "Unsubscribe"
-msgstr ""
-
-#, python-format
-msgid ""
-"# %(entry_title)s\n"
-"\n"
-"\n"
-"%(entry_description)s...\n"
-"\n"
-"\n"
-"Continue reading: %(entry_absolute_uri)s\n"
-"\n"
-"\n"
-"Made by love and brought to you by GoNevis <3\n"
-"\n"
-"Sent by: %(gonevis_site_url)s\n"
-"\n"
-"\n"
-"Unsubscribe: %(unsubscribe_url)s"
-msgstr ""
-
-#, python-format
-msgid "\"%(entry_title)s\" published in %(site_title)s"
 msgstr ""
 
 #, python-format
@@ -388,32 +349,6 @@ msgstr ""
 
 #, python-format
 msgid ""
-"\n"
-"Welcome\n"
-"\n"
-"%(site_name)s is using GoNevis to publish things on the internet!\n"
-"\n"
-"%(invited_by_name)s has invited you to join. Please click on the link\n"
-"below to activate your account.\n"
-"\n"
-"Click here to activate your account (%(activate_account)s)\n"
-"\n"
-"\n"
-"If you have trouble activating your %(site_name)s account,\n"
-"you can reach out to %(invited_by_name)s on %(invited_by_email)s for\n"
-"assistance.\n"
-"\n"
-"\n"
-"Made by love and brought to you by GoNevis <3\n"
-"\n"
-"Sent by: %(gonevis_site_url)s"
-msgstr ""
-
-msgid "[{{ site_name }}] Invitation to Collaborate"
-msgstr ""
-
-#, python-format
-msgid ""
 "Hello,\n"
 "<br><br><br>\n"
 "Good news! You've successfully created a brand new website.\n"
@@ -428,52 +363,10 @@ msgid ""
 msgstr ""
 
 #, python-format
-msgid ""
-"Hello,\n"
-"\n"
-"\n"
-"Good news! You've successfully created a brand new website\n"
-"over on %(site_url)s\n"
-"\n"
-"You can log in to your admin account with the following details:\n"
-"\n"
-"Dashboard: %(dash_url)s\n"
-"\n"
-"Username: %(username)s\n"
-"\n"
-"Password: The password you chose when you signed up\n"
-"\n"
-"<3\n"
-"\n"
-"Team GoNevis\n"
-"\n"
-"%(gonevis_site_url)s"
-msgstr ""
-
-msgid "Your site {{ site_title }} is Ready"
-msgstr ""
-
-#, python-format
 msgid "%(invited_by_name)s has given you access to <b>%(site_name)s"
 msgstr ""
 
 msgid "VIEW SITE"
-msgstr ""
-
-#, python-format
-msgid ""
-"%(user_name)s,\n"
-"\n"
-"\n"
-"%(invited_by_name)s has given you access to [%(site_name)s](%(site_url)s).\n"
-"\n"
-"\n"
-"Made by love and brought to you by GoNevis <3\n"
-"\n"
-"Sent by: %(gonevis_site_url)s"
-msgstr ""
-
-msgid "You're now part of [{{ site_name }}]"
 msgstr ""
 
 #, python-format
@@ -490,26 +383,6 @@ msgstr ""
 
 #, python-format
 msgid ""
-"Hello %(user_name)s,\n"
-"\n"
-"\n"
-"Please follow the link to reset your password:\n"
-"\n"
-"%(password_reset_link)s\n"
-"\n"
-"\n"
-"If you didn't request this password reset, please ignore it.\n"
-"\n"
-"<3\n"
-"\n"
-"%(gonevis_site_url)s"
-msgstr ""
-
-msgid "GoNevis Account Reset Password"
-msgstr ""
-
-#, python-format
-msgid ""
 "Hello %(site_owner_name)s,\n"
 "<br><br>\n"
 "You got a new subscriber.\n"
@@ -518,27 +391,132 @@ msgid ""
 "following."
 msgstr ""
 
-#, python-format
-msgid ""
-"Hello %(site_owner_name)s,\n"
-"\n"
-"You got a new subscriber.\n"
-"\n"
-"\n"
-"%(subscriber_name)s subscribed to your site \"%(site_title)s\" and started\n"
-"following.\n"
-"\n"
-"\n"
-"Made by love and brought to you by GoNevis <3\n"
-"\n"
-"Sent by: %(gonevis_site_url)s"
+msgid "Like"
+msgstr ""
+
+msgid "Follow"
 msgstr ""
 
 #, python-format
-msgid "%(subscriber_name)s started following your site on GoNevis"
+msgid "Click to Follow and receive updates from %(site_title)s"
+msgstr ""
+
+msgid "Following"
+msgstr ""
+
+#, python-format
+msgid "Click to Unfollow and stop receiving updates from %(site_title)s"
+msgstr ""
+
+msgid "Display recent entries"
+msgstr ""
+
+msgid "Display recent entries on right sidebar"
 msgstr ""
 
 msgid "Powered by "
+msgstr ""
+
+msgid "Account settings"
+msgstr ""
+
+msgid "Log out"
+msgstr ""
+
+msgid "Username"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Log in"
+msgstr ""
+
+msgid "Register"
+msgstr ""
+
+msgid "Forgot Password"
+msgstr ""
+
+msgid "Featured"
+msgstr ""
+
+msgid "Published"
+msgstr ""
+
+msgid "ago"
+msgstr ""
+
+msgid "Share"
+msgstr ""
+
+msgid "Share on Facebook"
+msgstr ""
+
+msgid "Share on Twitter"
+msgstr ""
+
+msgid "Share on Google Plus"
+msgstr ""
+
+msgid "Share on Pinterest"
+msgstr ""
+
+msgid "Share via Email"
+msgstr ""
+
+msgid "FOUND"
+msgstr ""
+
+msgid "RSS feed for"
+msgstr ""
+
+msgid "Couldn't find any entry tagged"
+msgstr ""
+
+msgid "Let's head to "
+msgstr ""
+
+msgid " home"
+msgstr ""
+
+msgid "Couldn't find any match for"
+msgstr ""
+
+msgid "Try other keywords..."
+msgstr ""
+
+msgid "Or go"
+msgstr ""
+
+msgid "home"
+msgstr ""
+
+msgid "Results for"
+msgstr ""
+
+msgid "Found"
+msgstr ""
+
+msgid "Comment"
+msgstr ""
+
+msgid "View more"
+msgstr ""
+
+msgid "RSS feed"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Subscribers"
+msgstr ""
+
+msgid "Posts"
+msgstr ""
+
+msgid "Joined"
 msgstr ""
 
 #, python-format
@@ -547,9 +525,7 @@ msgstr ""
 
 #, python-format
 msgid "%(entry_count)s entry"
-msgid_plural "%(entry_count)s entries"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
 msgid "No authors yet."
 msgstr ""
@@ -566,9 +542,7 @@ msgstr ""
 
 #, python-format
 msgid "%(comment_count)s comment"
-msgid_plural "%(comment_count)s comments"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
 msgid "No similar entries."
 msgstr ""
@@ -590,9 +564,7 @@ msgstr ""
 
 #, python-format
 msgid "%(entry_count)s entry tagged by %(tag)s"
-msgid_plural "%(entry_count)s entries tagged by %(tag)s"
-msgstr[0] ""
-msgstr[1] ""
+msgstr ""
 
 msgid "No tags yet."
 msgstr ""
@@ -617,9 +589,6 @@ msgstr ""
 msgid "Couldn't find any match for <b>'{{ search_query }}'</b>"
 msgstr ""
 
-msgid "Try other keywords..."
-msgstr ""
-
 msgid "Or go <a href=\"/\">home</a>"
 msgstr ""
 
@@ -628,34 +597,4 @@ msgstr ""
 
 #, python-format
 msgid "Found %(entry_count)s"
-msgstr ""
-
-msgid "ago"
-msgstr ""
-
-msgid "RSS feed"
-msgstr ""
-
-msgid "Featured"
-msgstr ""
-
-msgid "Subscribe"
-msgstr ""
-
-msgid "Subscribed"
-msgstr ""
-
-msgid "Log out"
-msgstr ""
-
-msgid "Sign in"
-msgstr ""
-
-msgid "Username"
-msgstr ""
-
-msgid "Password"
-msgstr ""
-
-msgid "Search"
 msgstr ""

@@ -7,7 +7,6 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-03-26 15:39+0400\n"
 "PO-Revision-Date: 2017-03-26 12:32+0400\n"
 "Last-Translator: Alireza Savand <hello@gonevis.com>\n"
 "Language-Team: \n"
@@ -43,6 +42,9 @@ msgstr "حساب کاربری غیرفعال است."
 msgid "Email {email} exists in our database."
 msgstr "ایمیل {email} در پایگاه داده ما وجود دارد."
 
+msgid "Template ID does not exists."
+msgstr ""
+
 msgid "Invalid resend email confirmation."
 msgstr ""
 
@@ -55,14 +57,16 @@ msgstr "تنها عکس‌ها مجاز هستند که آپلود شوند."
 msgid "Invitation ID is not valid."
 msgstr "مشخه دعوت‌نامه معتبر نیست."
 
-msgid "This type of file is not allowed for upload."
-msgstr "این نوع فایل برای آپلود مجاز نیست."
-
 msgid "No space left to upload file."
 msgstr "فضای کافی برای آپلود فایل وجود ندارد."
 
-#, python-brace-format
-msgid "Domain {0} exists in our database."
+msgid "This type of file is not allowed for upload."
+msgstr "این نوع فایل برای آپلود مجاز نیست."
+
+msgid "File not found."
+msgstr ""
+
+msgid "Site is required."
 msgstr ""
 
 msgid "You're not owner of the site."
@@ -103,6 +107,10 @@ msgstr "صاحب وبسایت نمی‌تواند از تیم حذف شود"
 msgid "Sorry, this URL is reserved."
 msgstr "شرمنده، این آدرس رزرو شده است"
 
+#, python-brace-format
+msgid "Domain {url} already taken."
+msgstr ""
+
 msgid "Please upload a valid ZIP file."
 msgstr "خواهشا یک فایل فشرد ZIP آپلود کنید"
 
@@ -129,5 +137,11 @@ msgstr "شئ وجود ندارد"
 msgid "Commenting is not enabled."
 msgstr "نظر دادن فعال نیست."
 
+msgid "Your email is not verified."
+msgstr ""
+
 msgid "Commenting is disabled."
 msgstr "نظر دادن غیر‌فعال شده."
+
+msgid "You can't subscribe to your own site."
+msgstr ""

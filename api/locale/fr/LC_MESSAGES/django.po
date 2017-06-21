@@ -8,7 +8,6 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-03-26 15:39+0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -43,6 +42,9 @@ msgstr ""
 msgid "Email {email} exists in our database."
 msgstr ""
 
+msgid "Template ID does not exists."
+msgstr ""
+
 msgid "Invalid resend email confirmation."
 msgstr ""
 
@@ -55,14 +57,16 @@ msgstr ""
 msgid "Invitation ID is not valid."
 msgstr ""
 
-msgid "This type of file is not allowed for upload."
-msgstr ""
-
 msgid "No space left to upload file."
 msgstr ""
 
-#, python-brace-format
-msgid "Domain {0} exists in our database."
+msgid "This type of file is not allowed for upload."
+msgstr ""
+
+msgid "File not found."
+msgstr ""
+
+msgid "Site is required."
 msgstr ""
 
 msgid "You're not owner of the site."
@@ -103,6 +107,10 @@ msgstr ""
 msgid "Sorry, this URL is reserved."
 msgstr ""
 
+#, python-brace-format
+msgid "Domain {url} already taken."
+msgstr ""
+
 msgid "Please upload a valid ZIP file."
 msgstr ""
 
@@ -129,5 +137,11 @@ msgstr ""
 msgid "Commenting is not enabled."
 msgstr ""
 
+msgid "Your email is not verified."
+msgstr ""
+
 msgid "Commenting is disabled."
+msgstr ""
+
+msgid "You can't subscribe to your own site."
 msgstr ""
