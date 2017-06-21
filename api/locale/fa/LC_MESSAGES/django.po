@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2017-03-26 12:32+0400\n"
+"PO-Revision-Date: 2017-06-21 14:01+0400\n"
 "Last-Translator: Alireza Savand <hello@gonevis.com>\n"
 "Language-Team: \n"
 "Language: fa\n"
@@ -15,14 +15,14 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 1.8.11\n"
+"X-Generator: Poedit 2.0.2\n"
 
 msgid "The old password is not valid."
 msgstr "رمز عبود قدیمی معتبر نیست."
 
 #, python-brace-format
 msgid "Cannot find any account registered with {email}"
-msgstr "نمی‌توان حساب‌کاربری ثبت شده‌ای با {email} پیدا کرد"
+msgstr "نمی‌توان حساب‌کاربری ثبت شده‌ای با {email} پیدا کرد."
 
 #, python-brace-format
 msgid "Username {username} exists in our database."
@@ -43,10 +43,10 @@ msgid "Email {email} exists in our database."
 msgstr "ایمیل {email} در پایگاه داده ما وجود دارد."
 
 msgid "Template ID does not exists."
-msgstr ""
+msgstr "شناسه قالب وجود ندارد."
 
 msgid "Invalid resend email confirmation."
-msgstr ""
+msgstr "درخواست دوباره فعال سازی غیر معتبر است."
 
 msgid "Invalid Email Verification token."
 msgstr "کد فعال سازی ایمیل اشتباه."
@@ -64,16 +64,16 @@ msgid "This type of file is not allowed for upload."
 msgstr "این نوع فایل برای آپلود مجاز نیست."
 
 msgid "File not found."
-msgstr ""
+msgstr "فایلی یافت نشد."
 
 msgid "Site is required."
-msgstr ""
+msgstr "سایت الزامی است."
 
 msgid "You're not owner of the site."
 msgstr "شما صاحب این وبسایت نیستید."
 
 msgid "What?"
-msgstr "چی ؟"
+msgstr "چی؟"
 
 msgid "It's not possible to promote a user to be an Owner."
 msgstr "امکان اینکه کاربر را به صاحب حساب ترقیع داد وجود ندارد."
@@ -102,21 +102,21 @@ msgid "Unknown team member."
 msgstr "عضو ناشناس تیم."
 
 msgid "Website owner cannot be removed from team."
-msgstr "صاحب وبسایت نمی‌تواند از تیم حذف شود"
+msgstr "صاحب وبسایت نمی‌تواند از تیم حذف شود."
 
 msgid "Sorry, this URL is reserved."
-msgstr "شرمنده، این آدرس رزرو شده است"
+msgstr "شرمنده، این آدرس رزرو شده است."
 
 #, python-brace-format
 msgid "Domain {url} already taken."
-msgstr ""
+msgstr "دامنه {url} از قبل گرفته شده."
 
 msgid "Please upload a valid ZIP file."
-msgstr "خواهشا یک فایل فشرد ZIP آپلود کنید"
+msgstr "خواهشا یک فایل فشرد ZIP آپلود کنید."
 
 #, python-brace-format
 msgid "{0} is missing from ZIP file."
-msgstr "{0} در فایل فشرده وجود ندارد"
+msgstr "{0} در فایل فشرده وجود ندارد."
 
 #, python-brace-format
 msgid "{0} (Content Place holder) was not found in  {1}."
@@ -126,7 +126,7 @@ msgid "Cannot parse the gonevis.json config"
 msgstr "نمی‌توان محتوای gonevis.json را درک کرد"
 
 msgid "Site error conflict!"
-msgstr "خطای سایت "
+msgstr "خطای سایت!"
 
 msgid "You're not owner of this site"
 msgstr "شما مالک این سایت نیستید"
@@ -138,10 +138,10 @@ msgid "Commenting is not enabled."
 msgstr "نظر دادن فعال نیست."
 
 msgid "Your email is not verified."
-msgstr ""
+msgstr "ایمیل شما تایید نشده است."
 
 msgid "Commenting is disabled."
 msgstr "نظر دادن غیر‌فعال شده."
 
 msgid "You can't subscribe to your own site."
-msgstr ""
+msgstr "شما نمی توانید وبسایت خود را دنبال کنید."
