@@ -15,7 +15,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);;\n"
 
 msgid "Sorry, page doesn't exist!"
 msgstr ""
@@ -394,6 +394,12 @@ msgstr ""
 msgid "Like"
 msgstr ""
 
+msgid "Dark background"
+msgstr ""
+
+msgid "Choose dark background"
+msgstr ""
+
 msgid "Follow"
 msgstr ""
 
@@ -412,6 +418,24 @@ msgid "Display recent entries"
 msgstr ""
 
 msgid "Display recent entries on right sidebar"
+msgstr ""
+
+msgid "Cover image"
+msgstr ""
+
+msgid "Show site cover image (or white background)"
+msgstr ""
+
+msgid "Site title and description on cover"
+msgstr ""
+
+msgid "Show title and description"
+msgstr ""
+
+msgid "Site logo on cover"
+msgstr ""
+
+msgid "Show logo"
 msgstr ""
 
 msgid "Powered by "
@@ -507,6 +531,24 @@ msgstr ""
 msgid "RSS feed"
 msgstr ""
 
+msgid "Show joined date"
+msgstr ""
+
+msgid "Display your joined date on template"
+msgstr ""
+
+msgid "Show location"
+msgstr ""
+
+msgid "Display your location on template"
+msgstr ""
+
+msgid "Navbar inverse"
+msgstr ""
+
+msgid "Inverse navbar color (black)"
+msgstr ""
+
 msgid "Search"
 msgstr ""
 
@@ -517,6 +559,15 @@ msgid "Posts"
 msgstr ""
 
 msgid "Joined"
+msgstr ""
+
+msgid "Show site cover image"
+msgstr ""
+
+msgid "Title and description on cover"
+msgstr ""
+
+msgid "Show title and description on cover"
 msgstr ""
 
 #, python-format
@@ -597,4 +648,19 @@ msgstr ""
 
 #, python-format
 msgid "Found %(entry_count)s"
+msgstr ""
+
+msgid "Navbar Inverse"
+msgstr ""
+
+msgid "Sticky Navbar"
+msgstr ""
+
+msgid "Fixed navbar position on top"
+msgstr ""
+
+msgid "Use Extra Effect"
+msgstr ""
+
+msgid "Enable extra theme effects for all components"
 msgstr ""
