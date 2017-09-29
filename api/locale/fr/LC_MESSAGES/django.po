@@ -57,6 +57,11 @@ msgstr ""
 msgid "Invitation ID is not valid."
 msgstr ""
 
+msgid ""
+"Login has been disabled on this account for cool down, please try again "
+"later."
+msgstr ""
+
 msgid "No space left to upload file."
 msgstr ""
 
@@ -109,6 +114,9 @@ msgstr ""
 
 #, python-brace-format
 msgid "Domain {url} already taken."
+msgstr ""
+
+msgid "Invalid domain."
 msgstr ""
 
 msgid "Please upload a valid ZIP file."

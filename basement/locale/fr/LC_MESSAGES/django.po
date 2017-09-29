@@ -17,21 +17,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-msgid "Entry"
-msgstr ""
-
-msgid "Comment"
-msgstr ""
-
-msgid "Site"
-msgstr ""
-
-msgid "object type"
-msgstr ""
-
-msgid "object ID"
-msgstr ""
-
 msgid "Terms of Service"
 msgstr ""
 

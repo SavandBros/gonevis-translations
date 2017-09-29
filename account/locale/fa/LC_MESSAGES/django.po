@@ -17,60 +17,6 @@ msgstr ""
 "X-Generator: Poedit 1.8.11\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-msgid "Deactivate selected users"
-msgstr "غیر‌فعال‌سازی کازبران انتخاب شده"
-
-msgid "Log in"
-msgstr "ورود"
-
-msgid "username"
-msgstr "نام کاربری"
-
-msgid "email"
-msgstr "ایمیل"
-
-msgid "name"
-msgstr "نام"
-
-msgid "location"
-msgstr "مکان"
-
-msgid "about"
-msgstr "درباره"
-
-msgid "active"
-msgstr "فعال"
-
-msgid "staff status"
-msgstr "وضعیت کارمند"
-
-msgid "email verification token"
-msgstr "کد فعال سازی ایمیل"
-
-msgid "receive email notification"
-msgstr "دریافت ایمیل فعال‌ساری"
-
-msgid "date joined"
-msgstr "تاریخ عضویت"
-
-msgid "updated"
-msgstr "بروزرسانی شده"
-
-msgid "User"
-msgstr "کاربر"
-
-msgid "Users"
-msgstr "کاربرها"
-
-msgid "thumbnail 256x256"
-msgstr "بندانگشتی ۲۵۶x۲۵۶"
-
-msgid "thumbnail 128x128"
-msgstr "بندانگشتی ۱۲۸x۱۲۸"
-
-msgid "thumbnail 48x48"
-msgstr "بندانگشتی ۴۸x۴۸"
-
 # ورود به وبسایت
 msgid "Login"
 msgstr "ورود"

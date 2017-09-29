@@ -17,13 +17,13 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);;\n"
 
-msgid "Sorry, page doesn't exist!"
+msgid "Page not found"
 msgstr ""
 
-msgid "It might have been removed or never existed before."
+msgid "Oops!"
 msgstr ""
 
-msgid "Go home"
+msgid "Go Home"
 msgstr ""
 
 msgid "Your username and password didn't match. Please try again."
@@ -394,10 +394,22 @@ msgstr ""
 msgid "Like"
 msgstr ""
 
-msgid "Dark background"
+msgid "Featured"
 msgstr ""
 
-msgid "Choose dark background"
+msgid "Comment"
+msgstr ""
+
+msgid "Sticky Navbar"
+msgstr ""
+
+msgid "Fixed navbar position on top"
+msgstr ""
+
+msgid "Light header"
+msgstr ""
+
+msgid "Choose light header"
 msgstr ""
 
 msgid "Follow"
@@ -462,13 +474,13 @@ msgstr ""
 msgid "Forgot Password"
 msgstr ""
 
-msgid "Featured"
-msgstr ""
-
 msgid "Published"
 msgstr ""
 
 msgid "ago"
+msgstr ""
+
+msgid "Go home"
 msgstr ""
 
 msgid "Share"
@@ -520,9 +532,6 @@ msgid "Results for"
 msgstr ""
 
 msgid "Found"
-msgstr ""
-
-msgid "Comment"
 msgstr ""
 
 msgid "View more"
@@ -651,12 +660,6 @@ msgid "Found %(entry_count)s"
 msgstr ""
 
 msgid "Navbar Inverse"
-msgstr ""
-
-msgid "Sticky Navbar"
-msgstr ""
-
-msgid "Fixed navbar position on top"
 msgstr ""
 
 msgid "Use Extra Effect"

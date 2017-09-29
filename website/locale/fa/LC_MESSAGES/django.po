@@ -20,9 +20,6 @@ msgstr ""
 msgid "tag list"
 msgstr ""
 
-msgid "Web Site"
-msgstr ""
-
 #, python-brace-format
 msgid "Last entries on the {site_name}"
 msgstr ""
@@ -37,172 +34,14 @@ msgstr "برچسب‌ها"
 msgid "Search {query}"
 msgstr ""
 
-msgid "owner"
+msgid "Home"
 msgstr ""
 
-msgid "administrator"
+msgid "About"
 msgstr ""
 
-msgid "editor"
+msgid "Display recent entries"
 msgstr ""
-
-msgid "roles"
-msgstr ""
-
-msgid "title"
-msgstr ""
-
-msgid "description"
-msgstr ""
-
-msgid "URL"
-msgstr ""
-
-msgid "template"
-msgstr ""
-
-msgid "settings"
-msgstr ""
-
-msgid "created"
-msgstr ""
-
-msgid "updated"
-msgstr ""
-
-msgid "site"
-msgstr ""
-
-msgid "sites"
-msgstr ""
-
-msgid "Draft"
-msgstr ""
-
-msgid "Published"
-msgstr ""
-
-msgid "Text"
-msgstr ""
-
-msgid "Image"
-msgstr ""
-
-msgid "Video"
-msgstr ""
-
-msgid "Audio"
-msgstr ""
-
-msgid "Status"
-msgstr ""
-
-msgid "slug"
-msgstr ""
-
-msgid "Used to build the entry's URL."
-msgstr ""
-
-msgid "lead"
-msgstr ""
-
-msgid "Lead paragraph"
-msgstr ""
-
-msgid "excerpt"
-msgstr ""
-
-msgid "Used for SEO purposes."
-msgstr ""
-
-msgid "content"
-msgstr ""
-
-msgid "status"
-msgstr ""
-
-msgid "format"
-msgstr ""
-
-msgid "comments enabled"
-msgstr ""
-
-msgid "Allows comments if checked."
-msgstr ""
-
-msgid "featured"
-msgstr ""
-
-msgid "password"
-msgstr ""
-
-msgid "Protects the entry with a password."
-msgstr ""
-
-msgid "view count"
-msgstr ""
-
-msgid "publication date"
-msgstr ""
-
-msgid "start publication"
-msgstr ""
-
-msgid "comemnt count"
-msgstr ""
-
-msgid "active comment count"
-msgstr ""
-
-msgid "hidden comment count"
-msgstr ""
-
-msgid "pending comment count"
-msgstr ""
-
-msgid "Entry"
-msgstr ""
-
-msgid "Entries"
-msgstr ""
-
-msgid "invite"
-msgstr ""
-
-msgid "invites"
-msgstr ""
-
-msgid "name"
-msgstr "نام"
-
-msgid "config"
-msgstr ""
-
-msgid "need sync"
-msgstr ""
-
-msgid "Site Template"
-msgstr ""
-
-msgid "Site Templates"
-msgstr ""
-
-msgid "screen shot"
-msgstr ""
-
-#, fuzzy
-#| msgid "thumbnail 128x128"
-msgid "thumbnail 512x512"
-msgstr "بندانگشتی ۴۸x۴۸"
-
-msgid "thumbnail 256x256"
-msgstr "بندانگشتی ۲۵۶x۲۵۶"
-
-msgid "thumbnail 128x128"
-msgstr "بندانگشتی ۴۸x۴۸"
-
-msgid "thumbnail 48x48"
-msgstr "بندانگشتی ۴۸x۴۸"
 
 msgid "Just another Nevis Site."
 msgstr ""

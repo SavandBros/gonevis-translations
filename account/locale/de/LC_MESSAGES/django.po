@@ -17,59 +17,5 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "Deactivate selected users"
-msgstr ""
-
-msgid "Log in"
-msgstr ""
-
-msgid "username"
-msgstr ""
-
-msgid "email"
-msgstr ""
-
-msgid "name"
-msgstr ""
-
-msgid "location"
-msgstr ""
-
-msgid "about"
-msgstr ""
-
-msgid "active"
-msgstr ""
-
-msgid "staff status"
-msgstr ""
-
-msgid "email verification token"
-msgstr ""
-
-msgid "receive email notification"
-msgstr ""
-
-msgid "date joined"
-msgstr ""
-
-msgid "updated"
-msgstr ""
-
-msgid "User"
-msgstr ""
-
-msgid "Users"
-msgstr ""
-
-msgid "thumbnail 256x256"
-msgstr ""
-
-msgid "thumbnail 128x128"
-msgstr ""
-
-msgid "thumbnail 48x48"
-msgstr ""
-
 msgid "Login"
 msgstr ""

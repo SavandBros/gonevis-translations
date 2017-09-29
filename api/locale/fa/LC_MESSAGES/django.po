@@ -57,6 +57,11 @@ msgstr "تنها عکس‌ها مجاز هستند که آپلود شوند."
 msgid "Invitation ID is not valid."
 msgstr "مشخه دعوت‌نامه معتبر نیست."
 
+msgid ""
+"Login has been disabled on this account for cool down, please try again "
+"later."
+msgstr ""
+
 msgid "No space left to upload file."
 msgstr "فضای کافی برای آپلود فایل وجود ندارد."
 
@@ -110,6 +115,11 @@ msgstr "شرمنده، این آدرس رزرو شده است."
 #, python-brace-format
 msgid "Domain {url} already taken."
 msgstr "دامنه {url} از قبل گرفته شده."
+
+#, fuzzy
+#| msgid "Invalid resend email confirmation."
+msgid "Invalid domain."
+msgstr "درخواست دوباره فعال سازی غیر معتبر است."
 
 msgid "Please upload a valid ZIP file."
 msgstr "خواهشا یک فایل فشرد ZIP آپلود کنید."
