@@ -1,21 +1,21 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# Alireza Savand, 2017.
+# Alireza Savand, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2017-10-09 11:48+0400\n"
-"Last-Translator: Alireza Savand\n"
+"PO-Revision-Date: 2017-10-09 12:35+0400\n"
+"Last-Translator: Alireza Savand <>\n"
 "Language-Team: \n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 2.0.4\n"
+"X-Generator: Virtaal 0.7.1\n"
 
 msgid "Page not found"
 msgstr "برگه یافت نشد"
@@ -221,7 +221,7 @@ msgid "Start a Blog"
 msgstr "ساخت بلاگ"
 
 msgid "Free Subdomain"
-msgstr ""
+msgstr "زیر دامننه مجانی"
 
 msgid "Get a free subdomain registered<br> under gonevis.com"
 msgstr ""
@@ -230,22 +230,22 @@ msgid "Dashboard"
 msgstr "پیشخوان"
 
 msgid "Advanced dashboard built<br> to manage your site"
-msgstr ""
+msgstr "پیشخوان حرفه‌ای ساخته شده<br> برای میدریت وبسایت شما"
 
 msgid "Success"
 msgstr "موفقیت"
 
 msgid "Turn your creativity into<br> success with GoNevis"
-msgstr ""
+msgstr "خلاقیت خود را با گونوییس<br> به موفقیت تبدیل کنید"
 
 msgid "An advanced dashboard is built to make your site even more awesome."
 msgstr ""
 
 msgid "Appearance Matters"
-msgstr ""
+msgstr "ظاهر مهم است"
 
 msgid "We know that &amp; we got it covered for you."
-msgstr ""
+msgstr "ما آن را میدانیم، ما هوای شما رو داریم."
 
 msgid " Browse all sorts of templates to choose the best one that suits your"
 msgstr ""
@@ -262,7 +262,7 @@ msgid ""
 msgstr ""
 
 msgid "Sign up for Free"
-msgstr ""
+msgstr "بصورت رایگان ثبت نام کنید"
 
 #, python-format
 msgid "Mute %(entry_title)s thread"
@@ -280,24 +280,24 @@ msgid "Published by %(user_name)s"
 msgstr ""
 
 msgid "Read more..."
-msgstr ""
+msgstr "بیشتر بخوان..."
 
 #, python-format
 msgid "%(user_name)s hasn't published anything yet."
 msgstr ""
 
 msgid "Publications"
-msgstr ""
+msgstr "انتشارات"
 
 #, python-format
 msgid "%(user_name)s responded to \"%(object_title)s\""
-msgstr ""
+msgstr "%(user_name)s پاسخ داد به \"%(object_title)s\""
 
 msgid "VIEW ON SITE"
-msgstr ""
+msgstr "روی وبسایت ببین"
 
 msgid "VIEW ON SITE<"
-msgstr ""
+msgstr "روی وبسایت ببین"
 
 msgid "Mute this thread"
 msgstr ""
@@ -311,6 +311,11 @@ msgid ""
 "keep the dirty spammers out and make sure you're a human, please confirm "
 "email address within the next %(expiration_days)s days."
 msgstr ""
+"سلام,\n"
+"<br><br><br>شما خواستید ثبت نام کنید در <b>%(gonevis_site_name)s</b> \n"
+"<br><br> شما عصو هستید. مچکریم برای ثبت نام در گونویس -  برای اینکه اسپم های "
+"کثیف را دور نگه داریم و یقین داشته باشیم شما انسان هستید، لطفاً ایمیل را تا "
+"%(expiration_days)s روز آینده ی ید کنید."
 
 msgid "CONFIRM"
 msgstr ""
