@@ -16,9 +16,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "tag list"
-msgstr ""
-
 #, python-brace-format
 msgid "Last entries on the {site_name}"
 msgstr ""

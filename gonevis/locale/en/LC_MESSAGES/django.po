@@ -21,9 +21,3 @@ msgstr ""
 
 msgid "Persian"
 msgstr ""
-
-msgid "French"
-msgstr ""
-
-msgid "German"
-msgstr ""

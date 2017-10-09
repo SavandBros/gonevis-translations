@@ -61,8 +61,7 @@ msgid ""
 "Login has been disabled on this account for cool down, please try again "
 "later."
 msgstr ""
-"این حساب کاربری برای آرام شدن غیر فعال شده است، لطغا بعدا دوباره امتحان "
-"کنید."
+"این حساب کاربری برای آرام شدن غیر فعال شده است، لطغا بعدا دوباره امتحان کنید."
 
 msgid "No space left to upload file."
 msgstr "فضای کافی برای آپلود فایل وجود ندارد."
@@ -118,7 +117,6 @@ msgstr "شرمنده، این آدرس رزرو شده است."
 msgid "Domain {url} already taken."
 msgstr "دامنه {url} از قبل گرفته شده."
 
-#| msgid "Invalid resend email confirmation."
 msgid "Invalid domain."
 msgstr "دامنه غیر معنبر."
 

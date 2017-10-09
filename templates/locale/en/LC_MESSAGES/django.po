@@ -391,10 +391,11 @@ msgid ""
 "following."
 msgstr ""
 
-msgid "Like"
+msgid "RSS feed"
 msgstr ""
 
-msgid "Featured"
+#, python-format
+msgid "Results for <b class=\"text-primary\">%(search_query)s</b>"
 msgstr ""
 
 msgid "Comment"
@@ -412,6 +413,9 @@ msgstr ""
 msgid "Choose light header"
 msgstr ""
 
+msgid "Search"
+msgstr ""
+
 msgid "Follow"
 msgstr ""
 
@@ -426,10 +430,17 @@ msgstr ""
 msgid "Click to Unfollow and stop receiving updates from %(site_title)s"
 msgstr ""
 
+msgid "Like"
+msgstr ""
+
 msgid "Display recent entries"
 msgstr ""
 
 msgid "Display recent entries on right sidebar"
+msgstr ""
+
+#, python-format
+msgid "Results for '%(search_query)s'"
 msgstr ""
 
 msgid "Cover image"
@@ -450,7 +461,7 @@ msgstr ""
 msgid "Show logo"
 msgstr ""
 
-msgid "Powered by "
+msgid "Menu"
 msgstr ""
 
 msgid "Account settings"
@@ -474,82 +485,7 @@ msgstr ""
 msgid "Forgot Password"
 msgstr ""
 
-msgid "Published"
-msgstr ""
-
-msgid "ago"
-msgstr ""
-
-msgid "Go home"
-msgstr ""
-
-msgid "Share"
-msgstr ""
-
-msgid "Share on Facebook"
-msgstr ""
-
-msgid "Share on Twitter"
-msgstr ""
-
-msgid "Share on Google Plus"
-msgstr ""
-
-msgid "Share on Pinterest"
-msgstr ""
-
-msgid "Share via Email"
-msgstr ""
-
-msgid "FOUND"
-msgstr ""
-
-msgid "RSS feed for"
-msgstr ""
-
-msgid "Couldn't find any entry tagged"
-msgstr ""
-
-msgid "Let's head to "
-msgstr ""
-
-msgid " home"
-msgstr ""
-
-msgid "Couldn't find any match for"
-msgstr ""
-
-msgid "Try other keywords..."
-msgstr ""
-
-msgid "Or go"
-msgstr ""
-
-msgid "home"
-msgstr ""
-
-msgid "Results for"
-msgstr ""
-
-msgid "Found"
-msgstr ""
-
 msgid "View more"
-msgstr ""
-
-msgid "RSS feed"
-msgstr ""
-
-msgid "Show joined date"
-msgstr ""
-
-msgid "Display your joined date on template"
-msgstr ""
-
-msgid "Show location"
-msgstr ""
-
-msgid "Display your location on template"
 msgstr ""
 
 msgid "Navbar inverse"
@@ -558,16 +494,10 @@ msgstr ""
 msgid "Inverse navbar color (black)"
 msgstr ""
 
-msgid "Search"
-msgstr ""
-
-msgid "Subscribers"
+msgid "Followers"
 msgstr ""
 
 msgid "Posts"
-msgstr ""
-
-msgid "Joined"
 msgstr ""
 
 msgid "Show site cover image"
@@ -579,6 +509,17 @@ msgstr ""
 msgid "Show title and description on cover"
 msgstr ""
 
+msgid "Powered by "
+msgstr ""
+
+#, python-format
+msgid "About %(name)s"
+msgstr ""
+
+#, python-format
+msgid "Joined at %(date)s"
+msgstr ""
+
 #, python-format
 msgid "Show all %(author)s's entries"
 msgstr ""
@@ -588,6 +529,18 @@ msgid "%(entry_count)s entry"
 msgstr ""
 
 msgid "No authors yet."
+msgstr ""
+
+msgid "Comments"
+msgstr ""
+
+msgid "Type in your comment"
+msgstr ""
+
+msgid "ago"
+msgstr ""
+
+msgid "Be the first to comment."
 msgstr ""
 
 msgid "No draft entries."
@@ -607,10 +560,20 @@ msgstr ""
 msgid "No similar entries."
 msgstr ""
 
-msgid "&larr; Newer"
+#, python-format
+msgid ""
+"Powered by <a class=\"col-dark t-bold\" ng-href=\"%(gonevis_url)s\">GoNevis</"
+"a>."
 msgstr ""
 
-msgid "Older &rarr;"
+msgid "Newer"
+msgstr ""
+
+msgid "Older"
+msgstr ""
+
+#, python-format
+msgid "RSS feed for %(tag_name)s"
 msgstr ""
 
 msgid "Keywords..."
@@ -622,6 +585,9 @@ msgid ""
 "complex queries."
 msgstr ""
 
+msgid "Share"
+msgstr ""
+
 #, python-format
 msgid "%(entry_count)s entry tagged by %(tag)s"
 msgstr ""
@@ -629,41 +595,35 @@ msgstr ""
 msgid "No tags yet."
 msgstr ""
 
+#, python-format
+msgid "Results for %(search_query)s"
+msgstr ""
+
+msgid "Pinned"
+msgstr ""
+
+msgid "Dark Header"
+msgstr ""
+
+msgid "Change color of header (navbar) to black"
+msgstr ""
+
+msgid "Sticky Header"
+msgstr ""
+
+msgid "Fixed header position on top"
+msgstr ""
+
 msgid "DRAFT"
 msgstr ""
 
-msgid "FOUND:"
+#, python-format
+msgid "Latest by %(display_name)s"
 msgstr ""
 
 #, python-format
-msgid "RSS feed for %(tag_name)s"
+msgid "Tagged with %(tag_slug)s"
 msgstr ""
 
-#, python-format
-msgid "Couldn't find any match for <b>'%(search_query)s'</b>"
-msgstr ""
-
-msgid "Let's head to <a href=\"/\"><i class=\"fa fa-home\"></i> home</a>"
-msgstr ""
-
-msgid "Couldn't find any match for <b>'{{ search_query }}'</b>"
-msgstr ""
-
-msgid "Or go <a href=\"/\">home</a>"
-msgstr ""
-
-msgid "Results for <b>{{ search_query }}</b>"
-msgstr ""
-
-#, python-format
-msgid "Found %(entry_count)s"
-msgstr ""
-
-msgid "Navbar Inverse"
-msgstr ""
-
-msgid "Use Extra Effect"
-msgstr ""
-
-msgid "Enable extra theme effects for all components"
+msgid "Featured"
 msgstr ""

@@ -16,10 +16,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Poedit 2.0.4\n"
-"POT-Creation-Date: \n"
-
-msgid "tag list"
-msgstr "لیست برچسب ها"
 
 #, python-brace-format
 msgid "Last entries on the {site_name}"
