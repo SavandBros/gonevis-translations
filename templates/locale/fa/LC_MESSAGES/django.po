@@ -3,28 +3,29 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2017-10-09 11:48+0400\n"
+"Language: fa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"POT-Creation-Date: \n"
+"Last-Translator: Alireza Savand\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.0.4\n"
 
 msgid "Page not found"
-msgstr ""
+msgstr "برگه یافت نشد"
 
 msgid "Oops!"
 msgstr ""
 
 msgid "Go Home"
-msgstr ""
+msgstr "برو خانه"
 
 msgid "Your username and password didn't match. Please try again."
 msgstr ""
@@ -35,19 +36,19 @@ msgid ""
 msgstr ""
 
 msgid "Please login to see this page."
-msgstr ""
+msgstr "لطفا برای دیدن صفحه وارد شوید"
 
 msgid "Lost password?"
-msgstr ""
+msgstr "رمز عبور گم شده ؟"
 
 msgid "Logout"
-msgstr ""
+msgstr "بیرون رفتن"
 
 msgid "You will be signed out from all the GoNevis websites and Dash."
 msgstr ""
 
 msgid "Sign out"
-msgstr ""
+msgstr "بیرون رفتن"
 
 msgid ""
 "Create a free website or write a blog with customizable templates and an "
@@ -58,49 +59,49 @@ msgid "GoNevis, blogging, blog, platform, free, website, build"
 msgstr ""
 
 msgid "SavandBros"
-msgstr ""
+msgstr "ساوند بروز"
 
 msgid "GoNevis"
-msgstr ""
+msgstr "گونویس"
 
 msgid "Toggle navigation"
 msgstr ""
 
 msgid "Features"
-msgstr ""
+msgstr "ویژگی ها"
 
 msgid "Get Started"
-msgstr ""
+msgstr "شروع کن"
 
 msgid "Editor"
-msgstr ""
+msgstr "ویرایشگر"
 
 msgid "File Manager"
-msgstr ""
+msgstr "مدیر فایل"
 
 msgid "Personalities"
-msgstr ""
+msgstr "شخصیت ها"
 
 msgid "Search Engine"
-msgstr ""
+msgstr "موتور جستجو"
 
 msgid "Appearance"
-msgstr ""
+msgstr "شمایل"
 
 msgid "Blog"
-msgstr ""
+msgstr "بلاگ"
 
 msgid "About Us"
-msgstr ""
+msgstr "درباره ما"
 
 msgid "Contact Us"
-msgstr ""
+msgstr "تماس با ما"
 
 msgid "Terms of Service"
-msgstr ""
+msgstr "شرایط استفاده"
 
 msgid "Privacy Policy"
-msgstr ""
+msgstr "اصول محرمانه"
 
 msgid "&copy; 2017 GoNevis.com"
 msgstr ""
@@ -110,7 +111,7 @@ msgid "<small>Site</small> <b>%(site_name)s</b> <small>doesn't exist!</small>"
 msgstr ""
 
 msgid "Create"
-msgstr ""
+msgstr "ساختن"
 
 msgid "How Blogging &amp; Publishing Works"
 msgstr ""
@@ -139,7 +140,7 @@ msgid ""
 msgstr ""
 
 msgid "File Manger"
-msgstr ""
+msgstr "مدیر فایل"
 
 msgid ""
 "Drag and drop your media into the uploader to add it to your website. Add "
@@ -153,7 +154,7 @@ msgid ""
 msgstr ""
 
 msgid "Users &amp; Personalities"
-msgstr ""
+msgstr "کارابران &amp; شخصیت ها"
 
 msgid ""
 "Not everyone requires the same access to your website. Administrators manage "
@@ -166,7 +167,7 @@ msgid ""
 msgstr ""
 
 msgid "Search Engine Optimized"
-msgstr ""
+msgstr "بهینه شده برای موتور جستجو"
 
 msgid ""
 "GoNevis is fully optimized for search engines and content sharing websites."
@@ -215,10 +216,10 @@ msgid ""
 msgstr ""
 
 msgid "Create a Website"
-msgstr ""
+msgstr "ساخت وبسایت"
 
 msgid "Start a Blog"
-msgstr ""
+msgstr "ساخت بلاگ"
 
 msgid "Free Subdomain"
 msgstr ""
@@ -227,13 +228,13 @@ msgid "Get a free subdomain registered<br> under gonevis.com"
 msgstr ""
 
 msgid "Dashboard"
-msgstr ""
+msgstr "پیشخوان"
 
 msgid "Advanced dashboard built<br> to manage your site"
 msgstr ""
 
 msgid "Success"
-msgstr ""
+msgstr "موفقیت"
 
 msgid "Turn your creativity into<br> success with GoNevis"
 msgstr ""
@@ -514,7 +515,7 @@ msgid "Let's head to "
 msgstr ""
 
 msgid " home"
-msgstr ""
+msgstr " خانه"
 
 msgid "Couldn't find any match for"
 msgstr ""
@@ -630,10 +631,10 @@ msgid "No tags yet."
 msgstr ""
 
 msgid "DRAFT"
-msgstr ""
+msgstr "پیش نویس"
 
 msgid "FOUND:"
-msgstr ""
+msgstr "یافت شده: "
 
 #, python-format
 msgid "RSS feed for %(tag_name)s"
@@ -650,20 +651,20 @@ msgid "Couldn't find any match for <b>'{{ search_query }}'</b>"
 msgstr ""
 
 msgid "Or go <a href=\"/\">home</a>"
-msgstr ""
+msgstr "یا برو به <a href=\"/\">خانه</a>"
 
 msgid "Results for <b>{{ search_query }}</b>"
-msgstr ""
+msgstr "نتایج برای <b>{{ search_query }}</b>"
 
 #, python-format
 msgid "Found %(entry_count)s"
-msgstr ""
+msgstr "پیدا شد  %(entry_count)s"
 
 msgid "Navbar Inverse"
 msgstr ""
 
 msgid "Use Extra Effect"
-msgstr ""
+msgstr "از ویژگی های بیشتر استفاده کن"
 
 msgid "Enable extra theme effects for all components"
 msgstr ""

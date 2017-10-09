@@ -7,50 +7,51 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2017-03-26 12:33+0400\n"
-"Last-Translator: Alireza Savand <hello@gonevis.com>\n"
+"PO-Revision-Date: 2017-10-09 11:38+0400\n"
+"Last-Translator: Alireza Savand\n"
 "Language-Team: \n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 1.8.11\n"
+"X-Generator: Poedit 2.0.4\n"
+"POT-Creation-Date: \n"
 
 msgid "tag list"
-msgstr ""
+msgstr "لیست برچسب ها"
 
 #, python-brace-format
 msgid "Last entries on the {site_name}"
-msgstr ""
+msgstr "آخرین نوشته ها در  {site_name}"
 
 msgid "Last entries"
-msgstr ""
+msgstr "آخرین نوشته ها"
 
 msgid "Tags"
 msgstr "برچسب‌ها"
 
 #, python-brace-format
 msgid "Search {query}"
-msgstr ""
+msgstr "جستجو {query}"
 
 msgid "Home"
-msgstr ""
+msgstr "خانه"
 
 msgid "About"
-msgstr ""
+msgstr "درباره"
 
 msgid "Display recent entries"
-msgstr ""
+msgstr "نمایش اخرین ارسالی ها"
 
 msgid "Just another Nevis Site."
 msgstr ""
 
 msgid "Powered by <a href=\"https://www.gonevis.com\">GoNevis</a>."
-msgstr ""
+msgstr "قدرت گرفته توسط <a href=\"https://www.gonevis.com\">گونویس</a>."
 
 msgid "The search query is too short."
-msgstr ""
+msgstr "کلمه جستجو خیلی کوتاه است."
 
 msgid "No keyword to search found."
-msgstr ""
+msgstr "برچسبی برای جستجو یافت نشد."
