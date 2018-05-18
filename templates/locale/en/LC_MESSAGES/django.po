@@ -87,6 +87,9 @@ msgstr ""
 msgid "Appearance"
 msgstr ""
 
+msgid "Company"
+msgstr ""
+
 msgid "Blog"
 msgstr ""
 
@@ -102,7 +105,7 @@ msgstr ""
 msgid "Privacy Policy"
 msgstr ""
 
-msgid "&copy; 2017 GoNevis.com"
+msgid "&copy; 2018 GoNevis.com"
 msgstr ""
 
 #, python-format
@@ -247,7 +250,8 @@ msgstr ""
 msgid "We know that &amp; we got it covered for you."
 msgstr ""
 
-msgid " Browse all sorts of templates to choose the best one that suits your"
+msgid ""
+" Browse all sorts of templates to choose the best one that suits your taste."
 msgstr ""
 
 msgid ""
@@ -261,7 +265,7 @@ msgid ""
 "entry editor."
 msgstr ""
 
-msgid "Sign up for Free"
+msgid "SIGN UP FOR FREE"
 msgstr ""
 
 #, python-format
@@ -290,103 +294,124 @@ msgid "Publications"
 msgstr ""
 
 #, python-format
-msgid "%(user_name)s responded to \"%(object_title)s\""
+msgid ""
+"<a href=\"%(user_profile_url)s\" style=\"color: #d17100;text-decoration: "
+"underline\">%(user_name)s</a> responded to \"%(object_title)s\":"
 msgstr ""
 
-msgid "VIEW ON SITE"
+msgid "View Comment"
 msgstr ""
 
-msgid "VIEW ON SITE<"
+msgid "Mute this post"
 msgstr ""
 
-msgid "Mute this thread"
+msgid ""
+"Made with <span class=\"heart\" style=\"color: #e74c3c;font-size: 12px;text-"
+"align: center\">❤</span>and brought to you by <a href=\"https://gonevis.com"
+"\" style=\"text-decoration: none;color: #d17100\">GoNevis</a>."
+msgstr ""
+
+msgid "Hello,"
+msgstr ""
+
+#, python-format
+msgid "You have asked to register an account at <b>%(gonevis_site_name)s</b>"
+msgstr ""
+
+msgid ""
+"You're in! Thanks for signing up for an account on <a href=\"https://gonevis."
+"com/\" style=\"color: #d17100;text-decoration: underline\">GoNevis</a>."
 msgstr ""
 
 #, python-format
 msgid ""
-"Hello,\n"
-"<br><br><br> You have asked to register an account at <b>"
-"%(gonevis_site_name)s</b>\n"
-"<br><br> You're in! Thanks for signing up for an account on GoNevis.com - to "
-"keep the dirty spammers out and make sure you're a human, please confirm "
-"email address within the next %(expiration_days)s days."
+"To keep the dirty spammers out and make sure you're a human, please confirm "
+"email address within the next %(expiration_days)s days:"
 msgstr ""
 
-msgid "CONFIRM"
+msgid "Confirm"
 msgstr ""
 
-msgid "Made with &hearts; and brought to you by GoNevis"
+msgid ""
+"Made with <span class=\"heart\" style=\"color: #e74c3c;font-size: 12px;text-"
+"align: center\">❤</span> and brought to you by <a href=\"https://gonevis.com"
+"\" style=\"text-decoration: none;color: #d17100\">GoNevis</a>."
 msgstr ""
 
-msgid "CONTINUE READING<"
+msgid "Continue Reading"
 msgstr ""
 
-msgid "CONTINUE READING"
-msgstr ""
-
-msgid "Unsubscribe"
+msgid "Welcome"
 msgstr ""
 
 #, python-format
 msgid ""
-"Welcome\n"
-"<br><br>\n"
-"%(site_name)s is using GoNevis to publish things on the internet!\n"
-"<br><br>\n"
-"%(invited_by_name)s has invited you to join. Please click on the button\n"
-"below to activate your account.\n"
-"<br><br>\n"
-"If you have trouble activating your %(site_name)s account,\n"
-"you can reach out to %(invited_by_name)s on %(invited_by_email)s for\n"
-"assistance."
-msgstr ""
-
-msgid "ACTIVATE ACCOUNT<"
-msgstr ""
-
-msgid "ACTIVATE ACCOUNT"
+"<a href=\"%(site_url)s\" style=\"color: #d17100;text-decoration: underline\">"
+"%(site_name)s</a> is using GoNevis to publish things on the internet!"
 msgstr ""
 
 #, python-format
 msgid ""
-"Hello,\n"
-"<br><br><br>\n"
-"Good news! You've successfully created a brand new website.\n"
-"<br><br>\n"
-"You can log in to your admin account with the following details:\n"
-"<br><br><br>\n"
-"Dashboard: %(dash_url)s\n"
-"<br><br>\n"
-"Username: %(username)s\n"
-"<br><br>\n"
-"Password: The password you chose when you signed up."
-msgstr ""
-
-#, python-format
-msgid "%(invited_by_name)s has given you access to <b>%(site_name)s"
-msgstr ""
-
-msgid "VIEW SITE"
+"<a href=\"%(invited_by_profile_url)s\" style=\"color: #d17100;text-"
+"decoration: underline\">%(invited_by_name)s</a> has invited you to join. "
+"Please click on the button below to activate your account."
 msgstr ""
 
 #, python-format
 msgid ""
-"Hello %(user_name)s,\n"
-"<br><br><br>\n"
-"Please click the button below to reset your password:\n"
-"<br><br>\n"
-"If you didn't request this password reset, please ignore it."
+"If you have trouble activating your <a href=\"%(site_url)s\" style=\"color: "
+"#d17100;text-decoration: underline\">%(site_name)s</a> account, you can "
+"reach out to <a href=\"%(invited_by_profile_url)s\" style=\"color: #d17100;"
+"text-decoration: underline\">%(invited_by_name)s</a> on <a href=\"mailto:"
+"%(invited_by_email)s\" style=\"color: #d17100;text-decoration: underline\">"
+"%(invited_by_email)s</a> for assistance."
 msgstr ""
 
-msgid "RESET PASSWORD"
+msgid "Activate Account"
+msgstr ""
+
+msgid "Hello, Good news! You've successfully created a brand new website."
+msgstr ""
+
+msgid "You can log in to your admin account with the following details:"
+msgstr ""
+
+msgid "Username"
+msgstr ""
+
+msgid "Password: The password you chose when you signed up."
 msgstr ""
 
 #, python-format
 msgid ""
-"Hello %(site_owner_name)s,\n"
-"<br><br>\n"
-"You got a new subscriber.\n"
-"<br><br><br>\n"
+"<a href=\"%(invited_by_profile_url)s\" style=\"color: #d17100;text-"
+"decoration: underline\">%(invited_by_name)s</a> has given you access to <a "
+"href=\"%(site_url)s\" style=\"color: #d17100;text-decoration: underline\">"
+"%(site_name)s</a>."
+msgstr ""
+
+msgid "View Site"
+msgstr ""
+
+#, python-format
+msgid "Hello %(user_name)s,"
+msgstr ""
+
+msgid "Please click the button below to reset your password:"
+msgstr ""
+
+msgid "If you didn't request this password reset, please ignore it."
+msgstr ""
+
+msgid "Reset Password"
+msgstr ""
+
+#, python-format
+msgid "Hello %(site_owner_name)s, You got a new subscriber."
+msgstr ""
+
+#, python-format
+msgid ""
 "%(subscriber_name)s subscribed to your site %(site_title)s and started "
 "following."
 msgstr ""
@@ -468,9 +493,6 @@ msgid "Account settings"
 msgstr ""
 
 msgid "Log out"
-msgstr ""
-
-msgid "Username"
 msgstr ""
 
 msgid "Password"
@@ -562,8 +584,7 @@ msgstr ""
 
 #, python-format
 msgid ""
-"Powered by <a class=\"col-dark t-bold\" ng-href=\"%(gonevis_url)s\">GoNevis</"
-"a>."
+"Powered by <a class=\"col-dark t-bold\" href=\"%(gonevis_url)s\">GoNevis</a>."
 msgstr ""
 
 msgid "Newer"
