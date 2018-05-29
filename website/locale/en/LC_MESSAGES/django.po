@@ -45,9 +45,6 @@ msgstr ""
 msgid "Powered by <a href=\"https://www.gonevis.com\">GoNevis</a>."
 msgstr ""
 
-msgid "Just another Nevis Site."
-msgstr ""
-
 msgid "The search query is too short."
 msgstr ""
 
