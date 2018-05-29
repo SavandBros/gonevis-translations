@@ -3,19 +3,20 @@
 # This file is distributed under the same license as the PACKAGE package.
 # Alireza Savand, 2017.
 # Alireza Savand, 2017.
+# Alireza Savand <alireza.savand@gmail.com>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2018-05-29 14:19+0300\n"
-"Last-Translator: Alireza Savand\n"
-"Language-Team: \n"
+"PO-Revision-Date: 2018-05-29 16:11+0300\n"
+"Last-Translator: Alireza Savand <alireza.savand@gmail.com>\n"
+"Language-Team: GoNevis\n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 2.0.7\n"
+"X-Generator: Virtaal 0.7.1\n"
 
 msgid "Page not found"
 msgstr "برگه یافت نشد"
@@ -408,7 +409,7 @@ msgid "Username"
 msgstr ""
 
 msgid "Password: The password you chose when you signed up."
-msgstr ""
+msgstr "رمز عبور، رمز عبوری که هنگام ثبت نام استفاده کردید."
 
 #, python-format
 msgid ""
@@ -417,61 +418,68 @@ msgid ""
 "href=\"%(site_url)s\" style=\"color: #d17100;text-decoration: underline\">"
 "%(site_name)s</a>."
 msgstr ""
+"<a href=\"%(invited_by_profile_url)s\" style=\"color: #d17100;text-"
+"decoration: underline\">%(invited_by_name)s</a> به شما اجازه دسترسی به <a "
+"href=\"%(site_url)s\" style=\"color: #d17100;text-decoration: underline\">"
+"%(site_name)s</a>."
 
 msgid "View Site"
-msgstr ""
+msgstr "دیدن وبگاه"
 
 #, python-format
 msgid "Hello %(user_name)s,"
-msgstr ""
+msgstr "سلام %(user_name)s,"
 
 msgid "Please click the button below to reset your password:"
-msgstr ""
+msgstr "لطفاً روی دکمه زیر برای بازیابی رمز عبور خود استفاده کنید:"
 
 msgid "If you didn't request this password reset, please ignore it."
 msgstr ""
+"اگر شما این درخواست را برای بازیابی رمز عبور را نکردید، لطفاً نادیده بگیرید."
 
 msgid "Reset Password"
 msgstr "بازیابی رمز عبور"
 
 #, python-format
 msgid "Hello %(site_owner_name)s, You got a new subscriber."
-msgstr ""
+msgstr "سلام %(site_owner_name)s, شما یک دنبال کننده جدید دارید."
 
 #, python-format
 msgid ""
 "%(subscriber_name)s subscribed to your site %(site_title)s and started "
 "following."
 msgstr ""
+"%(subscriber_name)s مشترک سایت شما شده %(site_title)s و شروع به دنبال کردن "
+"کرده."
 
 msgid "RSS feed"
-msgstr ""
+msgstr "خوراک RSS"
 
 #, fuzzy, python-format
 #| msgid "Results for <b>{{ search_query }}</b>"
 msgid "Results for <b class=\"text-primary\">%(search_query)s</b>"
-msgstr "نتایج برای <b>{{ search_query }}</b>"
+msgstr "نتایج برای <b class=\"text-primary\">%(search_query)s</b>"
 
 msgid "Comment"
-msgstr ""
+msgstr "دیدگاه"
 
 msgid "Sticky Navbar"
-msgstr ""
+msgstr "ناوبری چسبنده"
 
 msgid "Fixed navbar position on top"
-msgstr ""
+msgstr "اثبات موقعیت ناوبری در بالا"
 
 msgid "Light header"
-msgstr ""
+msgstr "سربرگ روشن"
 
 msgid "Choose light header"
-msgstr ""
+msgstr " سربرگ روشن را انتخاب کنید"
 
 msgid "Search"
-msgstr ""
+msgstr "جستجو"
 
 msgid "Follow"
-msgstr ""
+msgstr "دنبال کردن"
 
 #, python-format
 msgid "Click to Follow and receive updates from %(site_title)s"
