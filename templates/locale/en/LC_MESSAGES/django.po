@@ -108,6 +108,16 @@ msgstr ""
 msgid "&copy; 2018 GoNevis.com"
 msgstr ""
 
+msgid ""
+"We received your message and will get in touch soon.<br />Thank you "
+"<strong><3</strong>"
+msgstr ""
+
+msgid ""
+"You may send your message directly to <a href=\"mailto:hello@gonevis.com"
+"\">hello@gonevis.com</a> as well ;)"
+msgstr ""
+
 #, python-format
 msgid "<small>Site</small> <b>%(site_name)s</b> <small>doesn't exist!</small>"
 msgstr ""

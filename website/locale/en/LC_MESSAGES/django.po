@@ -39,10 +39,13 @@ msgstr ""
 msgid "Display recent entries"
 msgstr ""
 
-msgid "Just another Nevis Site."
+msgid "Just another GoNevis Site."
 msgstr ""
 
 msgid "Powered by <a href=\"https://www.gonevis.com\">GoNevis</a>."
+msgstr ""
+
+msgid "Just another Nevis Site."
 msgstr ""
 
 msgid "The search query is too short."

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2018-05-19 00:35+0300\n"
+"PO-Revision-Date: 2018-05-29 14:19+0300\n"
 "Last-Translator: Alireza Savand\n"
 "Language-Team: \n"
 "Language: fa\n"
@@ -33,9 +33,11 @@ msgid ""
 "Your account doesn't have access to this page. To proceed, please login with "
 "an account that has access."
 msgstr ""
+"حساب کاربری شما اجازه دسترسی به این صفحه را ندارد. برای ادامه، لطفاً با حساب "
+"کاربری که دسترسی را دارد وارد شوید."
 
 msgid "Please login to see this page."
-msgstr "لطفا برای دیدن صفحه وارد شوید"
+msgstr "لطفا برای دیدن صفحه وارد شوید."
 
 msgid "Lost password?"
 msgstr "رمز عبور گم شده ؟"
@@ -53,9 +55,11 @@ msgid ""
 "Create a free website or write a blog with customizable templates and an "
 "advanced dashboard."
 msgstr ""
+"یک سایت مجانی بسازید، یا وبلاگ نویسی کنید همراه با قالب های قابل سفارشی و یک "
+"پیشخوان حرفه ای."
 
 msgid "GoNevis, blogging, blog, platform, free, website, build"
-msgstr ""
+msgstr "گونویس، وبلاگ نویسی، وبلاگ، پلتفرم، مجانی، وبسایت، ساخت"
 
 msgid "SavandBros"
 msgstr "ساوند بروز"
@@ -64,7 +68,7 @@ msgid "GoNevis"
 msgstr "گونویس"
 
 msgid "Toggle navigation"
-msgstr ""
+msgstr "تغییر ناوبری"
 
 msgid "Features"
 msgstr "ویژگی ها"
@@ -88,7 +92,7 @@ msgid "Appearance"
 msgstr "شمایل"
 
 msgid "Company"
-msgstr ""
+msgstr "شرکت"
 
 msgid "Blog"
 msgstr "بلاگ"
@@ -106,40 +110,62 @@ msgid "Privacy Policy"
 msgstr "اصول محرمانه"
 
 msgid "&copy; 2018 GoNevis.com"
+msgstr "© 2018 GoNevis.com"
+
+msgid ""
+"We received your message and will get in touch soon.<br />Thank you "
+"<strong><3</strong>"
 msgstr ""
+"ما پیام شما را دریافت کردیم و به زودی در تماس خواهیم بود. <br /> با تشکر از "
+"شما <strong><3</strong>"
+
+msgid ""
+"You may send your message directly to <a href=\"mailto:hello@gonevis.com"
+"\">hello@gonevis.com</a> as well ;)"
+msgstr ""
+"شما همچنین می توانید پیام خود را به <a href=\"mailto:hello@gonevis.com"
+"\">hello@gonevis.com</a> ارسال کنید؛)"
 
 #, python-format
 msgid "<small>Site</small> <b>%(site_name)s</b> <small>doesn't exist!</small>"
-msgstr ""
+msgstr "<small>سایت</small> <b>%(site_name)s</b> <small>وجود ندارد!</small>"
 
 msgid "Create"
 msgstr "ساختن"
 
 msgid "How Blogging &amp; Publishing Works"
-msgstr ""
+msgstr "وبلاگ نویسی و انتشارات چگونه کار میکند"
 
 msgid "Write &amp; Publish with GoNevis"
-msgstr ""
+msgstr "با گونویس، بنویس و منتشر کن"
 
 msgid ""
 "We have an editor crafted for a nice experience with customization for extra "
 "productivity."
 msgstr ""
+"ما یک ویرایشگر منحصر به فرد ساخته ایم تا یک تجربه خوب و بهره وری بالاتری به "
+"ارمغان بیاورد."
 
 msgid ""
 "You don't need any coding experience to write entries and publish pages, "
 "just type the content and you're good to go."
 msgstr ""
+"شما اصلا لازم نیست که تجربه در کد نویسی داشته باشید که مطلب بنویسید و صفحه "
+"بسازید، فقط مطالب را تایپ کنید، همین."
 
 msgid ""
 "Need some images or embedded media ? Easily drag and drop them into the "
 "editor and you have them all done."
 msgstr ""
+"نیاز به عکس و تصاویر چند رسانه ای دارید ؟ به آسانی آن را به درون ویرایشگر "
+"بکشید و رها کنید و به همین سادگی همه آنها را خواهید داشت."
 
 msgid ""
 "GoNevis is always enhancing the editor with new features to take publishing "
 "to whole new level. Yes, we do have a Dark mode on the editor as well ;)"
 msgstr ""
+"گونویس همیشه در حال بهینه سازی ویرایشگر با ویژگی های جدید است تا تجربه نوشتن "
+"را به سطح کاملا جدیدی ببرد. بله، ما حالت تاریک برای ویرایشگر داریم!"
 
 msgid "File Manger"
 msgstr "مدیر فایل"
@@ -148,6 +174,8 @@ msgid ""
 "Drag and drop your media into the uploader to add it to your website. Add "
 "alt text, captions, and titles, and insert images your content."
 msgstr ""
+"رسانه های خود را به آپلود کننده بکشید و رها کنید تا آنها به وبسایت شما اضافه "
+"شوند. زیرنویس، متن اضافی و عناوین مختلف به محتوای خود بدهید."
 
 msgid ""
 "We’ve even added a few image editing tools you can have fun with. Not only "
@@ -323,23 +351,11 @@ msgid ""
 "com/\" style=\"color: #d17100;text-decoration: underline\">GoNevis</a>."
 msgstr ""
 
-#, fuzzy, python-format
-#| msgid ""
-#| "Hello,\n"
-#| "<br><br><br> You have asked to register an account at <b>"
-#| "%(gonevis_site_name)s</b>\n"
-#| "<br><br> You're in! Thanks for signing up for an account on GoNevis.com - "
-#| "to keep the dirty spammers out and make sure you're a human, please "
-#| "confirm email address within the next %(expiration_days)s days."
+#, python-format
 msgid ""
 "To keep the dirty spammers out and make sure you're a human, please confirm "
 "email address within the next %(expiration_days)s days:"
 msgstr ""
-"سلام,\n"
-"<br><br><br>شما خواستید ثبت نام کنید در <b>%(gonevis_site_name)s</b> \n"
-"<br><br> شما عصو هستید. مچکریم برای ثبت نام در گونویس -  برای اینکه اسپم های "
-"کثیف را دور نگه داریم و یقین داشته باشیم شما انسان هستید، لطفاً ایمیل را تا "
-"%(expiration_days)s روز آینده ی ید کنید."
 
 msgid "Confirm"
 msgstr ""
@@ -415,10 +431,8 @@ msgstr ""
 msgid "If you didn't request this password reset, please ignore it."
 msgstr ""
 
-#, fuzzy
-#| msgid "Lost password?"
 msgid "Reset Password"
-msgstr "رمز عبور گم شده ؟"
+msgstr "بازیابی رمز عبور"
 
 #, python-format
 msgid "Hello %(site_owner_name)s, You got a new subscriber."
@@ -464,28 +478,27 @@ msgid "Click to Follow and receive updates from %(site_title)s"
 msgstr ""
 
 msgid "Following"
-msgstr ""
+msgstr "دنبال کردن"
 
 #, python-format
 msgid "Click to Unfollow and stop receiving updates from %(site_title)s"
 msgstr ""
 
 msgid "Like"
-msgstr ""
+msgstr "دوست داشتن"
 
 msgid "Display recent entries"
-msgstr ""
+msgstr "نمایش اخرین ارسالی ها"
 
 msgid "Display recent entries on right sidebar"
-msgstr ""
+msgstr "نمایش اخرین ارسالی ها در بخش سمت راست"
 
-#, fuzzy, python-format
-#| msgid "Results for <b>{{ search_query }}</b>"
+#, python-format
 msgid "Results for '%(search_query)s'"
-msgstr "نتایج برای <b>{{ search_query }}</b>"
+msgstr "نتایج برای '%(search_query)s'"
 
 msgid "Cover image"
-msgstr ""
+msgstr "تصویر جلد"
 
 msgid "Show site cover image (or white background)"
 msgstr ""
@@ -500,122 +513,123 @@ msgid "Site logo on cover"
 msgstr ""
 
 msgid "Show logo"
-msgstr ""
+msgstr "نمایش نشان واژه"
 
 msgid "Menu"
-msgstr ""
+msgstr "فهرست"
 
 msgid "Account settings"
-msgstr ""
+msgstr "تنظیمات حساب کاربری"
 
 msgid "Log out"
-msgstr ""
+msgstr "خارج شدن"
 
 msgid "Password"
-msgstr ""
+msgstr "رمز عبور"
 
 msgid "Log in"
-msgstr ""
+msgstr "ورود"
 
 msgid "Register"
-msgstr ""
+msgstr "نام نویسی"
 
 msgid "Forgot Password"
-msgstr ""
+msgstr "فراموشی رمز عبور"
 
 msgid "View more"
-msgstr ""
+msgstr "دیدن بیشتر"
 
 msgid "Navbar inverse"
-msgstr ""
+msgstr "ناوبری معکوس"
 
 msgid "Inverse navbar color (black)"
-msgstr ""
+msgstr "رنگ معکوس (ناوبری)"
 
 msgid "Followers"
-msgstr ""
+msgstr "دنبال کنندگان"
 
 msgid "Posts"
-msgstr ""
+msgstr "نوشته‌ها"
 
 msgid "Show site cover image"
-msgstr ""
+msgstr "نمایش عکس جلد وبسایت"
 
 msgid "Title and description on cover"
-msgstr ""
+msgstr "عنوان و توضیحات روی جلد"
 
 msgid "Show title and description on cover"
-msgstr ""
+msgstr "نمایش عنوان و توضیحات روی جلد"
 
 msgid "Powered by "
-msgstr ""
+msgstr "قدرت گرفته از "
 
-#, fuzzy, python-format
-#| msgid "About Us"
+#, python-format
 msgid "About %(name)s"
-msgstr "درباره ما"
+msgstr "درباره %(name)s"
 
 #, python-format
 msgid "Joined at %(date)s"
-msgstr ""
+msgstr "عضو شده در %(date)s"
 
 #, python-format
 msgid "Show all %(author)s's entries"
-msgstr ""
+msgstr "نمایش همه مطالب %(author)s"
 
 #, python-format
 msgid "%(entry_count)s entry"
-msgstr ""
+msgstr "%(entry_count)s مطلب"
 
 msgid "No authors yet."
-msgstr ""
+msgstr "هیچ نویسنده ای هنوز نیست."
 
 msgid "Comments"
-msgstr ""
+msgstr "دیدگاه ها"
 
 msgid "Type in your comment"
-msgstr ""
+msgstr "دیدگاه خود را بنویسید"
 
 msgid "ago"
-msgstr ""
+msgstr "قبل"
 
 msgid "Be the first to comment."
-msgstr ""
+msgstr "اولین نفر باشید که نظر میدهد."
 
 msgid "No draft entries."
-msgstr ""
+msgstr "هیچ پیش نویسی نیست."
 
 msgid "No entries yet."
-msgstr ""
+msgstr "هنوز هیچ مطلبی نیست."
 
 #, python-format
 msgid "Comments on %(object)s"
-msgstr ""
+msgstr "دیدگاه ها بر %(object)s"
 
 #, python-format
 msgid "%(comment_count)s comment"
-msgstr ""
+msgstr "%(comment_count)s دیدگاه"
 
 msgid "No similar entries."
-msgstr ""
+msgstr "هیچ مطلب مشابه ای نیست."
 
 #, python-format
 msgid ""
 "Powered by <a class=\"col-dark t-bold\" href=\"%(gonevis_url)s\">GoNevis</a>."
 msgstr ""
+"قدرت گرفته از <a class=\"col-dark t-bold\" href=\"%(gonevis_url)s\">گونویس</"
+"a>."
 
 msgid "Newer"
-msgstr ""
+msgstr "جدیدتر"
 
 msgid "Older"
-msgstr ""
+msgstr "قدیمی تر"
 
 #, python-format
 msgid "RSS feed for %(tag_name)s"
-msgstr ""
+msgstr "خوراک RSS برای %(tag_name)s"
 
 msgid "Keywords..."
-msgstr ""
+msgstr "کلیدواژه‌ها..."
 
 msgid ""
 "You can use - to exclude words or phrases, &quot;double quotes&quot; for "
@@ -624,45 +638,44 @@ msgid ""
 msgstr ""
 
 msgid "Share"
-msgstr ""
+msgstr "اشتراک گذاری"
 
 #, python-format
 msgid "%(entry_count)s entry tagged by %(tag)s"
-msgstr ""
+msgstr "%(entry_count)s مطلب برچسب زده با %(tag)s"
 
 msgid "No tags yet."
-msgstr ""
+msgstr "هنوز هیچ برچسبی نیست."
 
-#, fuzzy, python-format
-#| msgid "Results for <b>{{ search_query }}</b>"
+#, python-format
 msgid "Results for %(search_query)s"
-msgstr "نتایج برای <b>{{ search_query }}</b>"
+msgstr "نتایج برای %(search_query)s"
 
 msgid "Pinned"
-msgstr ""
+msgstr "سنجاق شده"
 
 msgid "Dark Header"
 msgstr "سربرگ تاریک"
 
 msgid "Change color of header (navbar) to black"
-msgstr ""
+msgstr "تغییر رنگ سربرگ (ناوبری) به سیاه"
 
 msgid "Sticky Header"
-msgstr ""
+msgstr "سربرگ چسبنده"
 
 msgid "Fixed header position on top"
-msgstr ""
+msgstr "اثبات موقعیت سربرگ در بالا"
 
 msgid "DRAFT"
 msgstr "پیش نویس"
 
 #, python-format
 msgid "Latest by %(display_name)s"
-msgstr ""
+msgstr "آخرین ها توسط %(display_name)s"
 
 #, python-format
 msgid "Tagged with %(tag_slug)s"
-msgstr ""
+msgstr "برچسب شده با %(tag_slug)s"
 
 msgid "Featured"
 msgstr "ویژه شده"
