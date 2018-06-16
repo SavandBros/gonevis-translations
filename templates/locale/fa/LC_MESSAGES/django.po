@@ -8,15 +8,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2018-05-29 16:11+0300\n"
-"Last-Translator: Alireza Savand <alireza.savand@gmail.com>\n"
+"PO-Revision-Date: 2018-06-16 21:30+0300\n"
+"Last-Translator: Alireza Savand\n"
 "Language-Team: GoNevis\n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Virtaal 0.7.1\n"
+"X-Generator: Poedit 2.0.8\n"
 
 msgid "Page not found"
 msgstr "برگه یافت نشد"
@@ -43,20 +43,20 @@ msgstr "لطفا برای دیدن صفحه وارد شوید."
 msgid "Lost password?"
 msgstr "رمز عبور گم شده ؟"
 
-msgid "Logout"
+msgid "Sign Out"
 msgstr "بیرون رفتن"
 
 msgid "You will be signed out from all the GoNevis websites and Dash."
 msgstr "شما از تمامی وب سایت های گونویس و داشبورد خارج میشوید."
 
-msgid "Sign out"
-msgstr "بیرون رفتن"
+msgid "About"
+msgstr "درباره"
 
 msgid ""
-"Create a free website or write a blog with customizable templates and an "
-"advanced dashboard."
+"Create your own unique blog for free with customizable themes and advanced "
+"dashboard."
 msgstr ""
-"یک سایت مجانی بسازید، یا وبلاگ نویسی کنید همراه با قالب های قابل سفارشی و یک "
+"وبلاگ خاص خود را به رایگان بسازید، همراه با قالب های قابل سفارشی و یک "
 "پیشخوان حرفه ای."
 
 msgid "GoNevis, blogging, blog, platform, free, website, build"
@@ -68,32 +68,14 @@ msgstr "ساوند بروز"
 msgid "GoNevis"
 msgstr "گونویس"
 
-msgid "Toggle navigation"
-msgstr "تغییر ناوبری"
-
-msgid "Features"
-msgstr "ویژگی ها"
+msgid "Sign Up"
+msgstr "ثبت نام"
 
 msgid "Get Started"
 msgstr "شروع کن"
 
-msgid "Editor"
-msgstr "ویرایشگر"
-
-msgid "File Manager"
-msgstr "مدیر فایل"
-
-msgid "Personalities"
-msgstr "شخصیت ها"
-
-msgid "Search Engine"
-msgstr "موتور جستجو"
-
-msgid "Appearance"
-msgstr "شمایل"
-
-msgid "Company"
-msgstr "شرکت"
+msgid "&copy; 2018 GoNevis.com"
+msgstr "© 2018 GoNevis.com"
 
 msgid "Blog"
 msgstr "بلاگ"
@@ -110,214 +92,186 @@ msgstr "شرایط استفاده"
 msgid "Privacy Policy"
 msgstr "اصول محرمانه"
 
-msgid "&copy; 2018 GoNevis.com"
-msgstr "© 2018 GoNevis.com"
+msgid "We received your message and will get in touch soon."
+msgstr "ما پیام شما را دریافت کردیم و به زودی در تماس خواهیم بود."
 
-msgid ""
-"We received your message and will get in touch soon.<br />Thank you "
-"<strong><3</strong>"
-msgstr ""
-"ما پیام شما را دریافت کردیم و به زودی در تماس خواهیم بود. <br /> با تشکر از "
-"شما <strong><3</strong>"
+msgid "Thank you <3"
+msgstr "با تشکر از شما 3>"
 
-msgid ""
-"You may send your message directly to <a href=\"mailto:hello@gonevis.com"
-"\">hello@gonevis.com</a> as well ;)"
-msgstr ""
-"شما همچنین می توانید پیام خود را به <a href=\"mailto:hello@gonevis.com"
-"\">hello@gonevis.com</a> ارسال کنید؛)"
+msgid "You may send your message directly to this email as well:"
+msgstr "شما همچنین می توانید پیام خود را به ما مستقیم ارسال کنید:"
 
 #, python-format
-msgid "<small>Site</small> <b>%(site_name)s</b> <small>doesn't exist!</small>"
-msgstr "<small>سایت</small> <b>%(site_name)s</b> <small>وجود ندارد!</small>"
+msgid "%(site_name)s not found"
+msgstr "%(site_name)s پیدا نشد"
 
-msgid "Create"
-msgstr "ساختن"
+#, python-format
+msgid "%(site_name)s doesn't exist!"
+msgstr "%(site_name)s وجود مدارد!"
 
-msgid "How Blogging &amp; Publishing Works"
-msgstr "وبلاگ نویسی و انتشارات چگونه کار میکند"
+#, python-format
+msgid "Do you want to register %(site_name)s?"
+msgstr "آیا میخواهید %(site_name)s را ثبت کنید؟"
 
-msgid "Write &amp; Publish with GoNevis"
-msgstr "با گونویس، بنویس و منتشر کن"
+#, python-format
+msgid "Create %(site_name)s"
+msgstr "ایجاد %(site_name)s"
 
-msgid ""
-"We have an editor crafted for a nice experience with customization for extra "
-"productivity."
+msgid "Create your blog for free"
+msgstr "وبلاگ خود را به رایگان بسازید"
+
+msgid "GoNevis is a professional blog publishing platform."
+msgstr "گونویس یک محیط حرفه ای برای انتشار بلاگ است."
+
+msgid "From simple personal blogging to professional multi-author publishing."
 msgstr ""
-"ما یک ویرایشگر منحصر به فرد ساخته ایم تا یک تجربه خوب و بهره وری بالاتری به "
-"ارمغان بیاورد."
-
-msgid ""
-"You don't need any coding experience to write entries and publish pages, "
-"just type the content and you're good to go."
-msgstr ""
-"شما اصلا لازم نیست که تجربه در کد نویسی داشته باشید که مطلب بنویسید و صفحه "
-"بسازید، فقط مطالب را تایپ کنید، همین."
-
-msgid ""
-"Need some images or embedded media ? Easily drag and drop them into the "
-"editor and you have them all done."
-msgstr ""
-"نیاز به عکس و تصاویر چند رسانه ای دارید ؟ به آسانی آن را به درون ویرایشگر "
-"بکشید و رها کنید و به همین سادگی همه آنها را خواهید داشت."
-
-msgid ""
-"GoNevis is always enhancing the editor with new features to take publishing "
-"to whole new level. Yes, we do have a Dark mode on the editor as well ;)"
-msgstr ""
-"گونویس همیشه در حال بهینه سازی ویرایشگر با ویژگی های جدید است تا تجربه نوشتن "
-"را به سطح کاملا جدیدی ببرد. بله، ما حالت تاریک برای ویرایشگر داریم!"
-
-msgid "File Manger"
-msgstr "مدیر فایل"
-
-msgid ""
-"Drag and drop your media into the uploader to add it to your website. Add "
-"alt text, captions, and titles, and insert images your content."
-msgstr ""
-"رسانه های خود را به آپلود کننده بکشید و رها کنید تا آنها به وبسایت شما اضافه "
-"شوند. زیرنویس، متن اضافی و عناوین مختلف به محتوای خود بدهید."
-
-msgid ""
-"We’ve even added a few image editing tools you can have fun with. Not only "
-"images, you can upload and keep any kind of files, form Documents to Video "
-"and Musics."
-msgstr ""
-
-msgid "Users &amp; Personalities"
-msgstr "کارابران &amp; شخصیت ها"
-
-msgid ""
-"Not everyone requires the same access to your website. Administrators manage "
-"the site, editors work with content, Editors write that content."
-msgstr ""
-
-msgid ""
-"This is how you're going to handle your team on each site, grow from single "
-"writer to thousands ;)"
-msgstr ""
-
-msgid "Search Engine Optimized"
-msgstr "بهینه شده برای موتور جستجو"
-
-msgid ""
-"GoNevis is fully optimized for search engines and content sharing websites."
-msgstr ""
-
-msgid ""
-"When someone shares content from your website, related information such as "
-"Images, title, description and other data will be recognized to Social media."
-msgstr ""
-
-msgid ""
-"You can even customize the SEO behavior withing the site configuration and "
-"entry editor."
-msgstr ""
-
-msgid "Appearance Matters. We know that & we got it covered for you."
-msgstr ""
-
-msgid "Browse all sorts of templates to choose the best one that suits you."
-msgstr ""
-
-msgid ""
-"With just a few clicks, customize your theme and layout to fit your site "
-"look &amp; feel."
-msgstr ""
-
-msgid "Template Configuration"
-msgstr ""
-
-msgid ""
-"Each theme has different type of configuration and settings that you can use "
-"to customize your website template."
-msgstr ""
-
-msgid ""
-"GoNevis template configuration engine gets enhancement day by day and it's "
-"getting much advanced while keeping it simplicity to use."
-msgstr ""
-
-msgid "Create a free blog or website"
-msgstr ""
-
-msgid ""
-"GoNevis is a professional site and blog publishing platform. From simple "
-"personal blogging to professional publication web sites."
-msgstr ""
-
-msgid "Create a Website"
-msgstr "ساخت وبسایت"
+"از وبلاگ شخصی ساده گرفته، تا یک محیط حرفه ای انتشارات با چندین نویسنده."
 
 msgid "Start a Blog"
-msgstr "ساخت بلاگ"
+msgstr "شروع یک بلاگ"
+
+msgid "Posts Overview"
+msgstr "بررسی اجمالی پست ها"
 
 msgid "Free Subdomain"
-msgstr "زیر دامننه مجانی"
+msgstr "زیر دامنه مجانی"
 
-msgid "Get a free subdomain registered<br> under gonevis.com"
-msgstr ""
+msgid "Get a free subdomain registered<br>under gonevis.com"
+msgstr "یک زیر دامنه رایگان بگیرید<br>تحت گونویس"
 
 msgid "Dashboard"
 msgstr "پیشخوان"
 
-msgid "Advanced dashboard built<br> to manage your site"
-msgstr "پیشخوان حرفه‌ای ساخته شده<br> برای میدریت وبسایت شما"
+msgid "Advanced dashboard built to<br>manage your blog"
+msgstr "پیشخوان حرفه‌ای ساخته شده<br> برای مدیریت وبلاگ شما"
 
-msgid "Success"
-msgstr "موفقیت"
+msgid "Themes"
+msgstr "پوسته‌ها"
 
-msgid "Turn your creativity into<br> success with GoNevis"
-msgstr "خلاقیت خود را با گونوییس<br> به موفقیت تبدیل کنید"
+msgid "Stunning customizable<br>themes to pick"
+msgstr "پوسته های قابل سفارشی خیره کننده<br>که انتخاب کنید"
 
-msgid "An advanced dashboard is built to make your site even more awesome."
-msgstr ""
+msgid "Posts"
+msgstr "نوشته‌ها"
 
-msgid "Appearance Matters"
-msgstr "ظاهر مهم است"
-
-msgid "We know that &amp; we got it covered for you."
-msgstr "ما آن را میدانیم، ما هوای شما رو داریم."
+msgid "Files"
+msgstr "فایل ها"
 
 msgid ""
-" Browse all sorts of templates to choose the best one that suits your taste."
+"Advanced dashboard is built to manage your blog with easy-to-use features."
 msgstr ""
+"پیشخوان حرفه ای ساخته شده تا براحتی وبلاگ خود را با امکانات پیشرفته براحتی "
+"مدیریت کنید."
+
+msgid "<b>Editor</b> with dark and light mode."
+msgstr "<b>ویرایشگر</b>با حالت های روشن و تاریک."
+
+msgid "<b>Overview</b> for posts, comments, storage, team and more."
+msgstr "<b>نگاهی خلاصه</b> برای نوشته ها، دیدگاه ها، فضا، تیم و بیشتر."
+
+msgid "<b>File Manager</b> for your images, videos, documents, etc."
+msgstr "<b>مدیریت فایل</b> برای تصاویر، ویدیو ها، اسناد و غیره."
+
+msgid "Appearance"
+msgstr "شمایل"
+
+msgid "Appearance Matters. We know that and we got it covered for you."
+msgstr "ظاهر مهم است، ما آن را میدانیم، ما هوای شما رو داریم."
+
+msgid "Browse all sorts of templates to choose the best one that suits you."
+msgstr "از بین پوسته های مختلف، پوسته ی مورد علاقه خودتان رو انتخاب کنید."
 
 msgid ""
-"When someone shares content from your website, related information such as "
-"images, title, description and other data that will be recognized to Social "
-"media."
+"With just a few clicks, customize your theme and layout to fit your blog."
 msgstr ""
+"تنها با چند کلیک، پوسته و قالب وبلاگ خود را به سلیقه خودتان سفارشی کنید."
+
+msgid "Themes to get started with"
+msgstr "پوسته هایی برای شروع"
+
+msgid "Search Engine Optimization"
+msgstr "بهینه سازی برای موتور جستجو"
+
+msgid "Search"
+msgstr "جستجو"
 
 msgid ""
-"You can even customize the SEO behavior within the site configuration and "
+"GoNevis is fully optimized for search engines and content sharing sites."
+msgstr ""
+"گونویس بطور کامل برای موتورهای جستجو و وبسایت های به اشتراک گذاری بهینه شده."
+
+msgid "Share"
+msgstr "اشتراک گذاری"
+
+msgid ""
+"When someone shares your posts, related information such as images, title, "
+"description and other data that will be recognized to Social media."
+msgstr ""
+"وقتی کسی مطلبی از شما به اشتراک میگذارد، اطلاعات مرتبط همچون تصاویر، عنوان، "
+"توضیحات و دیگر داده های آن قابل شناسایی و دست یابی برای شبکه های اجتماعی "
+"خواهد بود."
+
+msgid "Configure"
+msgstr "پیکربندی"
+
+msgid ""
+"You can even customize the SEO behavior within the blog configuration and "
 "entry editor."
 msgstr ""
+"شما حتی میتوانید رفتار \"بهینه ساز محتوا برای موتور جستجو\" را با پیکر بندی "
+"وبلاگ یا از ویرایشگر متن سفارشی کنید."
 
-msgid "SIGN UP FOR FREE"
-msgstr ""
+msgid "Users & Personalities"
+msgstr "کاربران & شخصیت ها"
 
-#, python-format
-msgid "Mute %(entry_title)s thread"
+msgid ""
+"Not everyone requires the same access to your blog. Administrators manage "
+"the blog, editors work with the content."
 msgstr ""
+"همه نیاز نیست یک نوع دسترسی به وبلاگ شما داشته باشند، مدیران وبلاگ را مدیریت "
+"میکنند، سردبیران محتوا را."
 
-#, python-format
-msgid "No longer want to receive notification for \"<b>%(entry_title)s</b>\"."
+msgid ""
+"This is how you're going to handle your team on each blog, grow from single "
+"writer to thousands ;)"
 msgstr ""
+"اینگونه شما تیم خود را در هر وبلاگ مدیریت میکنید، از یک نویسنده به هزاران "
+"نویسنده رشد کنید ;)"
+
+msgid "Theme Config"
+msgstr "پیکربندی پوسته"
+
+msgid ""
+"Each theme has its own configuration and settings that allows you to "
+"customize your blog the way you want to."
+msgstr ""
+"هر پوسته دارای پیکر بندی و تنظیمات منحصر به فرد خود است که این امکان را به "
+"شما میدهد که آن را به شکلی که میخواهید سفارشی کنید."
+
+msgid ""
+"GoNevis template configuration engine gets enhancement day by day and it's "
+"getting much advanced while keeping its simplicity."
+msgstr ""
+"موتور پیکربندی پوسته گونویس، هر روز بهینه سازی شده و همگام با نگه داشتن "
+"سادگی استفاده، حرفه ای تر خواهد شد."
 
 msgid "Mute thread"
-msgstr ""
+msgstr "ساکت کردن گفتگو"
+
+#, python-format
+msgid "No longer want to receive notification for \"%(entry_title)s\"."
+msgstr "دیگر تمایلی به آگاه شدن از \"%(entry_title)s\" نیست."
 
 #, python-format
 msgid "Published by %(user_name)s"
-msgstr ""
+msgstr "منتشر شده توسط %(user_name)s"
 
 msgid "Read more..."
 msgstr "بیشتر بخوان..."
 
 #, python-format
 msgid "%(user_name)s hasn't published anything yet."
-msgstr ""
+msgstr "%(user_name)s تا حالا چیزی منتشر نکرده."
 
 msgid "Publications"
 msgstr "انتشارات"
@@ -327,57 +281,63 @@ msgid ""
 "<a href=\"%(user_profile_url)s\" style=\"color: #d17100;text-decoration: "
 "underline\">%(user_name)s</a> responded to \"%(object_title)s\":"
 msgstr ""
+"<a href=\"%(user_profile_url)s\" style=\"color: #d17100;text-decoration: "
+"underline\">%(user_name)s</a> پاسخ داد به \"%(object_title)s\":"
 
 msgid "View Comment"
-msgstr ""
+msgstr "نمایش دیدگاه"
 
 msgid "Mute this post"
-msgstr ""
-
-msgid ""
-"Made with <span class=\"heart\" style=\"color: #e74c3c;font-size: 12px;text-"
-"align: center\">❤</span>and brought to you by <a href=\"https://gonevis.com"
-"\" style=\"text-decoration: none;color: #d17100\">GoNevis</a>."
-msgstr ""
-
-msgid "Hello,"
-msgstr ""
-
-#, python-format
-msgid "You have asked to register an account at <b>%(gonevis_site_name)s</b>"
-msgstr ""
-
-msgid ""
-"You're in! Thanks for signing up for an account on <a href=\"https://gonevis."
-"com/\" style=\"color: #d17100;text-decoration: underline\">GoNevis</a>."
-msgstr ""
-
-#, python-format
-msgid ""
-"To keep the dirty spammers out and make sure you're a human, please confirm "
-"email address within the next %(expiration_days)s days:"
-msgstr ""
-
-msgid "Confirm"
-msgstr ""
+msgstr "نوشته را ساکت کن"
 
 msgid ""
 "Made with <span class=\"heart\" style=\"color: #e74c3c;font-size: 12px;text-"
 "align: center\">❤</span> and brought to you by <a href=\"https://gonevis.com"
 "\" style=\"text-decoration: none;color: #d17100\">GoNevis</a>."
 msgstr ""
+"ساخته شده با <span class=\"heart\" style=\"color: #e74c3c;font-size: 12px;"
+"text-align: center\">❤</span>و به شما آورده شده توسط <a href=\"https://"
+"gonevis.com\" style=\"text-decoration: none;color: #d17100\">گونویس</a>."
+
+msgid "Hello,"
+msgstr "سلام،"
+
+#, python-format
+msgid "You have asked to register an account at <b>%(gonevis_site_name)s</b>"
+msgstr ""
+"شما درخواست ایجاد یک حساب کاربری در <b>%(gonevis_site_name)s</b> کرده اید"
+
+msgid ""
+"You're in! Thanks for signing up for an account on <a href=\"https://gonevis."
+"com/\" style=\"color: #d17100;text-decoration: underline\">GoNevis</a>."
+msgstr ""
+"عضو شدید! تشکر میکنیم از شما برای ثبت نام در  <a href=\"https://gonevis.com/"
+"\" style=\"color: #d17100;text-decoration: underline\">گونویس</a>."
+
+#, python-format
+msgid ""
+"To keep the dirty spammers out and make sure you're a human, please confirm "
+"email address within the next %(expiration_days)s days:"
+msgstr ""
+"برای اینکه جفنگ های کثیف را دور نگه داریم و مطمئن شویم شما انسان هستید، لطفاً "
+"آدرس پست الکترونیک خود را تا نهایتا %(expiration_days)s روز دیگر تایید کنید."
+
+msgid "Confirm"
+msgstr "تأیید"
 
 msgid "Continue Reading"
-msgstr ""
+msgstr "ادامه خواندن"
 
 msgid "Welcome"
-msgstr ""
+msgstr "خوش آمدید"
 
 #, python-format
 msgid ""
 "<a href=\"%(site_url)s\" style=\"color: #d17100;text-decoration: underline\">"
 "%(site_name)s</a> is using GoNevis to publish things on the internet!"
 msgstr ""
+"<a href=\"%(site_url)s\" style=\"color: #d17100;text-decoration: underline\">"
+"%(site_name)s</a> از گونویس برای انتشار در اینترنت استفاده میکند!"
 
 #, python-format
 msgid ""
@@ -385,6 +345,9 @@ msgid ""
 "decoration: underline\">%(invited_by_name)s</a> has invited you to join. "
 "Please click on the button below to activate your account."
 msgstr ""
+"<a href=\"%(invited_by_profile_url)s\" style=\"color: #d17100;text-"
+"decoration: underline\">%(invited_by_name)s</a>شما را به عضویت دعوت کرده. "
+"لطفا بر پیوند زیر کلیک کنید تا حساب خود را فعال کنید."
 
 #, python-format
 msgid ""
@@ -397,16 +360,16 @@ msgid ""
 msgstr ""
 
 msgid "Activate Account"
-msgstr ""
+msgstr "فعال سازی حساب"
 
 msgid "Hello, Good news! You've successfully created a brand new website."
-msgstr ""
+msgstr "سلام، خبر خوش! شما با موفقیت یک وبسایت جدید ساختید."
 
 msgid "You can log in to your admin account with the following details:"
-msgstr ""
+msgstr "شما میتوانید با به حساب مدیریتی خود با مشخصات زیر وارد شوید:"
 
 msgid "Username"
-msgstr ""
+msgstr "نام کاربری"
 
 msgid "Password: The password you chose when you signed up."
 msgstr "رمز عبور، رمز عبوری که هنگام ثبت نام استفاده کردید."
@@ -455,10 +418,9 @@ msgstr ""
 msgid "RSS feed"
 msgstr "خوراک RSS"
 
-#, fuzzy, python-format
-#| msgid "Results for <b>{{ search_query }}</b>"
+#, python-format
 msgid "Results for <b class=\"text-primary\">%(search_query)s</b>"
-msgstr "نتایج برای <b class=\"text-primary\">%(search_query)s</b>"
+msgstr "نتایج <b class=\"text-primary\">%(search_query)s</b>"
 
 msgid "Comment"
 msgstr "دیدگاه"
@@ -473,10 +435,7 @@ msgid "Light header"
 msgstr "سربرگ روشن"
 
 msgid "Choose light header"
-msgstr " سربرگ روشن را انتخاب کنید"
-
-msgid "Search"
-msgstr "جستجو"
+msgstr "سربرگ روشن را انتخاب کنید"
 
 msgid "Follow"
 msgstr "دنبال کردن"
@@ -484,13 +443,15 @@ msgstr "دنبال کردن"
 #, python-format
 msgid "Click to Follow and receive updates from %(site_title)s"
 msgstr ""
+"کلیک کنید تا %(site_title)s را دنبال کنید و از جدیدترین رخدادها را دریافت "
+"کنید"
 
 msgid "Following"
 msgstr "دنبال کردن"
 
 #, python-format
 msgid "Click to Unfollow and stop receiving updates from %(site_title)s"
-msgstr ""
+msgstr "برای توقف دنبال کردن و دریافت رخدادها از %(site_title)s کلیک کنید"
 
 msgid "Like"
 msgstr "دوست داشتن"
@@ -509,16 +470,16 @@ msgid "Cover image"
 msgstr "تصویر جلد"
 
 msgid "Show site cover image (or white background)"
-msgstr ""
+msgstr "نمایش عکس جلد وبسایت (یا پیش زمینه سفید)"
 
 msgid "Site title and description on cover"
-msgstr ""
+msgstr "عنوان و توضیحات وبسایت روی جلد"
 
 msgid "Show title and description"
-msgstr ""
+msgstr "نمایش عنوان و توضیحات"
 
 msgid "Site logo on cover"
-msgstr ""
+msgstr "نشان‌واره وبسایت روی جلد"
 
 msgid "Show logo"
 msgstr "نمایش نشان واژه"
@@ -555,9 +516,6 @@ msgstr "رنگ معکوس (ناوبری)"
 
 msgid "Followers"
 msgstr "دنبال کنندگان"
-
-msgid "Posts"
-msgstr "نوشته‌ها"
 
 msgid "Show site cover image"
 msgstr "نمایش عکس جلد وبسایت"
@@ -635,18 +593,6 @@ msgstr "قدیمی تر"
 #, python-format
 msgid "RSS feed for %(tag_name)s"
 msgstr "خوراک RSS برای %(tag_name)s"
-
-msgid "Keywords..."
-msgstr "کلیدواژه‌ها..."
-
-msgid ""
-"You can use - to exclude words or phrases, &quot;double quotes&quot; for "
-"exact phrases and the AND/OR boolean operators combined with parenthesis for "
-"complex queries."
-msgstr ""
-
-msgid "Share"
-msgstr "اشتراک گذاری"
 
 #, python-format
 msgid "%(entry_count)s entry tagged by %(tag)s"

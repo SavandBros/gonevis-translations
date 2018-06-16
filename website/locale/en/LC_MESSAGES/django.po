@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #, python-brace-format
-msgid "Last entries on the {site_name}"
+msgid "Last entries on the {self.site.title}"
 msgstr ""
 
 msgid "Last entries"

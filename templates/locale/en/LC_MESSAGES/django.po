@@ -40,18 +40,18 @@ msgstr ""
 msgid "Lost password?"
 msgstr ""
 
-msgid "Logout"
+msgid "Sign Out"
 msgstr ""
 
 msgid "You will be signed out from all the GoNevis websites and Dash."
 msgstr ""
 
-msgid "Sign out"
+msgid "About"
 msgstr ""
 
 msgid ""
-"Create a free website or write a blog with customizable templates and an "
-"advanced dashboard."
+"Create your own unique blog for free with customizable themes and advanced "
+"dashboard."
 msgstr ""
 
 msgid "GoNevis, blogging, blog, platform, free, website, build"
@@ -63,31 +63,13 @@ msgstr ""
 msgid "GoNevis"
 msgstr ""
 
-msgid "Toggle navigation"
-msgstr ""
-
-msgid "Features"
+msgid "Sign Up"
 msgstr ""
 
 msgid "Get Started"
 msgstr ""
 
-msgid "Editor"
-msgstr ""
-
-msgid "File Manager"
-msgstr ""
-
-msgid "Personalities"
-msgstr ""
-
-msgid "Search Engine"
-msgstr ""
-
-msgid "Appearance"
-msgstr ""
-
-msgid "Company"
+msgid "&copy; 2018 GoNevis.com"
 msgstr ""
 
 msgid "Blog"
@@ -105,188 +87,156 @@ msgstr ""
 msgid "Privacy Policy"
 msgstr ""
 
-msgid "&copy; 2018 GoNevis.com"
+msgid "We received your message and will get in touch soon."
 msgstr ""
 
-msgid ""
-"We received your message and will get in touch soon.<br />Thank you "
-"<strong><3</strong>"
+msgid "Thank you <3"
 msgstr ""
 
-msgid ""
-"You may send your message directly to <a href=\"mailto:hello@gonevis.com"
-"\">hello@gonevis.com</a> as well ;)"
+msgid "You may send your message directly to this email as well:"
 msgstr ""
 
 #, python-format
-msgid "<small>Site</small> <b>%(site_name)s</b> <small>doesn't exist!</small>"
+msgid "%(site_name)s not found"
 msgstr ""
 
-msgid "Create"
+#, python-format
+msgid "%(site_name)s doesn't exist!"
 msgstr ""
 
-msgid "How Blogging &amp; Publishing Works"
+#, python-format
+msgid "Do you want to register %(site_name)s?"
 msgstr ""
 
-msgid "Write &amp; Publish with GoNevis"
+#, python-format
+msgid "Create %(site_name)s"
 msgstr ""
 
-msgid ""
-"We have an editor crafted for a nice experience with customization for extra "
-"productivity."
+msgid "Create your blog for free"
 msgstr ""
 
-msgid ""
-"You don't need any coding experience to write entries and publish pages, "
-"just type the content and you're good to go."
+msgid "GoNevis is a professional blog publishing platform."
 msgstr ""
 
-msgid ""
-"Need some images or embedded media ? Easily drag and drop them into the "
-"editor and you have them all done."
+msgid "From simple personal blogging to professional multi-author publishing."
 msgstr ""
 
-msgid ""
-"GoNevis is always enhancing the editor with new features to take publishing "
-"to whole new level. Yes, we do have a Dark mode on the editor as well ;)"
+msgid "Start a Blog"
 msgstr ""
 
-msgid "File Manger"
+msgid "Posts Overview"
 msgstr ""
 
-msgid ""
-"Drag and drop your media into the uploader to add it to your website. Add "
-"alt text, captions, and titles, and insert images your content."
+msgid "Free Subdomain"
 msgstr ""
 
-msgid ""
-"We’ve even added a few image editing tools you can have fun with. Not only "
-"images, you can upload and keep any kind of files, form Documents to Video "
-"and Musics."
+msgid "Get a free subdomain registered<br>under gonevis.com"
 msgstr ""
 
-msgid "Users &amp; Personalities"
+msgid "Dashboard"
 msgstr ""
 
-msgid ""
-"Not everyone requires the same access to your website. Administrators manage "
-"the site, editors work with content, Editors write that content."
+msgid "Advanced dashboard built to<br>manage your blog"
 msgstr ""
 
-msgid ""
-"This is how you're going to handle your team on each site, grow from single "
-"writer to thousands ;)"
+msgid "Themes"
 msgstr ""
 
-msgid "Search Engine Optimized"
+msgid "Stunning customizable<br>themes to pick"
+msgstr ""
+
+msgid "Posts"
+msgstr ""
+
+msgid "Files"
 msgstr ""
 
 msgid ""
-"GoNevis is fully optimized for search engines and content sharing websites."
+"Advanced dashboard is built to manage your blog with easy-to-use features."
 msgstr ""
 
-msgid ""
-"When someone shares content from your website, related information such as "
-"Images, title, description and other data will be recognized to Social media."
+msgid "<b>Editor</b> with dark and light mode."
 msgstr ""
 
-msgid ""
-"You can even customize the SEO behavior withing the site configuration and "
-"entry editor."
+msgid "<b>Overview</b> for posts, comments, storage, team and more."
 msgstr ""
 
-msgid "Appearance Matters. We know that & we got it covered for you."
+msgid "<b>File Manager</b> for your images, videos, documents, etc."
+msgstr ""
+
+msgid "Appearance"
+msgstr ""
+
+msgid "Appearance Matters. We know that and we got it covered for you."
 msgstr ""
 
 msgid "Browse all sorts of templates to choose the best one that suits you."
 msgstr ""
 
 msgid ""
-"With just a few clicks, customize your theme and layout to fit your site "
-"look &amp; feel."
+"With just a few clicks, customize your theme and layout to fit your blog."
 msgstr ""
 
-msgid "Template Configuration"
+msgid "Themes to get started with"
+msgstr ""
+
+msgid "Search Engine Optimization"
+msgstr ""
+
+msgid "Search"
 msgstr ""
 
 msgid ""
-"Each theme has different type of configuration and settings that you can use "
-"to customize your website template."
+"GoNevis is fully optimized for search engines and content sharing sites."
+msgstr ""
+
+msgid "Share"
+msgstr ""
+
+msgid ""
+"When someone shares your posts, related information such as images, title, "
+"description and other data that will be recognized to Social media."
+msgstr ""
+
+msgid "Configure"
+msgstr ""
+
+msgid ""
+"You can even customize the SEO behavior within the blog configuration and "
+"entry editor."
+msgstr ""
+
+msgid "Users & Personalities"
+msgstr ""
+
+msgid ""
+"Not everyone requires the same access to your blog. Administrators manage "
+"the blog, editors work with the content."
+msgstr ""
+
+msgid ""
+"This is how you're going to handle your team on each blog, grow from single "
+"writer to thousands ;)"
+msgstr ""
+
+msgid "Theme Config"
+msgstr ""
+
+msgid ""
+"Each theme has its own configuration and settings that allows you to "
+"customize your blog the way you want to."
 msgstr ""
 
 msgid ""
 "GoNevis template configuration engine gets enhancement day by day and it's "
-"getting much advanced while keeping it simplicity to use."
-msgstr ""
-
-msgid "Create a free blog or website"
-msgstr ""
-
-msgid ""
-"GoNevis is a professional site and blog publishing platform. From simple "
-"personal blogging to professional publication web sites."
-msgstr ""
-
-msgid "Create a Website"
-msgstr ""
-
-msgid "Start a Blog"
-msgstr ""
-
-msgid "Free Subdomain"
-msgstr ""
-
-msgid "Get a free subdomain registered<br> under gonevis.com"
-msgstr ""
-
-msgid "Dashboard"
-msgstr ""
-
-msgid "Advanced dashboard built<br> to manage your site"
-msgstr ""
-
-msgid "Success"
-msgstr ""
-
-msgid "Turn your creativity into<br> success with GoNevis"
-msgstr ""
-
-msgid "An advanced dashboard is built to make your site even more awesome."
-msgstr ""
-
-msgid "Appearance Matters"
-msgstr ""
-
-msgid "We know that &amp; we got it covered for you."
-msgstr ""
-
-msgid ""
-" Browse all sorts of templates to choose the best one that suits your taste."
-msgstr ""
-
-msgid ""
-"When someone shares content from your website, related information such as "
-"images, title, description and other data that will be recognized to Social "
-"media."
-msgstr ""
-
-msgid ""
-"You can even customize the SEO behavior within the site configuration and "
-"entry editor."
-msgstr ""
-
-msgid "SIGN UP FOR FREE"
-msgstr ""
-
-#, python-format
-msgid "Mute %(entry_title)s thread"
-msgstr ""
-
-#, python-format
-msgid "No longer want to receive notification for \"<b>%(entry_title)s</b>\"."
+"getting much advanced while keeping its simplicity."
 msgstr ""
 
 msgid "Mute thread"
+msgstr ""
+
+#, python-format
+msgid "No longer want to receive notification for \"%(entry_title)s\"."
 msgstr ""
 
 #, python-format
@@ -317,7 +267,7 @@ msgstr ""
 
 msgid ""
 "Made with <span class=\"heart\" style=\"color: #e74c3c;font-size: 12px;text-"
-"align: center\">❤</span>and brought to you by <a href=\"https://gonevis.com"
+"align: center\">❤</span> and brought to you by <a href=\"https://gonevis.com"
 "\" style=\"text-decoration: none;color: #d17100\">GoNevis</a>."
 msgstr ""
 
@@ -340,12 +290,6 @@ msgid ""
 msgstr ""
 
 msgid "Confirm"
-msgstr ""
-
-msgid ""
-"Made with <span class=\"heart\" style=\"color: #e74c3c;font-size: 12px;text-"
-"align: center\">❤</span> and brought to you by <a href=\"https://gonevis.com"
-"\" style=\"text-decoration: none;color: #d17100\">GoNevis</a>."
 msgstr ""
 
 msgid "Continue Reading"
@@ -448,9 +392,6 @@ msgstr ""
 msgid "Choose light header"
 msgstr ""
 
-msgid "Search"
-msgstr ""
-
 msgid "Follow"
 msgstr ""
 
@@ -529,9 +470,6 @@ msgstr ""
 msgid "Followers"
 msgstr ""
 
-msgid "Posts"
-msgstr ""
-
 msgid "Show site cover image"
 msgstr ""
 
@@ -605,18 +543,6 @@ msgstr ""
 
 #, python-format
 msgid "RSS feed for %(tag_name)s"
-msgstr ""
-
-msgid "Keywords..."
-msgstr ""
-
-msgid ""
-"You can use - to exclude words or phrases, &quot;double quotes&quot; for "
-"exact phrases and the AND/OR boolean operators combined with parenthesis for "
-"complex queries."
-msgstr ""
-
-msgid "Share"
 msgstr ""
 
 #, python-format
