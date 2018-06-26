@@ -40,6 +40,15 @@ msgstr ""
 msgid "Please login to see this page."
 msgstr "لطفا برای دیدن صفحه وارد شوید."
 
+msgid "Username"
+msgstr "نام کاربری"
+
+msgid "Password"
+msgstr "رمز عبور"
+
+msgid "Login"
+msgstr ""
+
 msgid "Lost password?"
 msgstr "رمز عبور گم شده ؟"
 
@@ -276,10 +285,13 @@ msgstr "%(user_name)s تا حالا چیزی منتشر نکرده."
 msgid "Publications"
 msgstr "انتشارات"
 
-#, python-format
+#, fuzzy, python-format
+#| msgid ""
+#| "<a href=\"%(user_profile_url)s\" style=\"color: #d17100;text-decoration: "
+#| "underline\">%(user_name)s</a> responded to \"%(object_title)s\":"
 msgid ""
 "<a href=\"%(user_profile_url)s\" style=\"color: #d17100;text-decoration: "
-"underline\">%(user_name)s</a> responded to \"%(object_title)s\":"
+"none !important\">%(user_name)s</a> responded to \"%(object_title)s\":"
 msgstr ""
 "<a href=\"%(user_profile_url)s\" style=\"color: #d17100;text-decoration: "
 "underline\">%(user_name)s</a> پاسخ داد به \"%(object_title)s\":"
@@ -287,13 +299,18 @@ msgstr ""
 msgid "View Comment"
 msgstr "نمایش دیدگاه"
 
-msgid "Mute this post"
-msgstr "نوشته را ساکت کن"
+msgid "Unsubscribe"
+msgstr ""
 
+#, fuzzy
+#| msgid ""
+#| "Made with <span class=\"heart\" style=\"color: #e74c3c;font-size: 12px;"
+#| "text-align: center\">❤</span> and brought to you by <a href=\"https://"
+#| "gonevis.com\" style=\"text-decoration: none;color: #d17100\">GoNevis</a>."
 msgid ""
 "Made with <span class=\"heart\" style=\"color: #e74c3c;font-size: 12px;text-"
-"align: center\">❤</span> and brought to you by <a href=\"https://gonevis.com"
-"\" style=\"text-decoration: none;color: #d17100\">GoNevis</a>."
+"align: center\">❤</span>and brought to you by <a href=\"https://gonevis.com"
+"\" style=\"text-decoration: none !important;color: #d17100\">GoNevis</a>."
 msgstr ""
 "ساخته شده با <span class=\"heart\" style=\"color: #e74c3c;font-size: 12px;"
 "text-align: center\">❤</span>و به شما آورده شده توسط <a href=\"https://"
@@ -307,9 +324,14 @@ msgid "You have asked to register an account at <b>%(gonevis_site_name)s</b>"
 msgstr ""
 "شما درخواست ایجاد یک حساب کاربری در <b>%(gonevis_site_name)s</b> کرده اید"
 
+#, fuzzy
+#| msgid ""
+#| "You're in! Thanks for signing up for an account on <a href=\"https://"
+#| "gonevis.com/\" style=\"color: #d17100;text-decoration: underline"
+#| "\">GoNevis</a>."
 msgid ""
 "You're in! Thanks for signing up for an account on <a href=\"https://gonevis."
-"com/\" style=\"color: #d17100;text-decoration: underline\">GoNevis</a>."
+"com/\" style=\"color: #d17100;text-decoration: none !important\">GoNevis</a>."
 msgstr ""
 "عضو شدید! تشکر میکنیم از شما برای ثبت نام در  <a href=\"https://gonevis.com/"
 "\" style=\"color: #d17100;text-decoration: underline\">گونویس</a>."
@@ -325,25 +347,47 @@ msgstr ""
 msgid "Confirm"
 msgstr "تأیید"
 
+#, fuzzy
+#| msgid ""
+#| "Made with <span class=\"heart\" style=\"color: #e74c3c;font-size: 12px;"
+#| "text-align: center\">❤</span> and brought to you by <a href=\"https://"
+#| "gonevis.com\" style=\"text-decoration: none;color: #d17100\">GoNevis</a>."
+msgid ""
+"Made with <span class=\"heart\" style=\"color: #e74c3c;font-size: 12px;text-"
+"align: center\">❤</span> and brought to you by <a href=\"https://gonevis.com"
+"\" style=\"text-decoration: none !important;color: #d17100\">GoNevis</a>."
+msgstr ""
+"ساخته شده با <span class=\"heart\" style=\"color: #e74c3c;font-size: 12px;"
+"text-align: center\">❤</span>و به شما آورده شده توسط <a href=\"https://"
+"gonevis.com\" style=\"text-decoration: none;color: #d17100\">گونویس</a>."
+
 msgid "Continue Reading"
 msgstr "ادامه خواندن"
 
 msgid "Welcome"
 msgstr "خوش آمدید"
 
-#, python-format
+#, fuzzy, python-format
+#| msgid ""
+#| "<a href=\"%(site_url)s\" style=\"color: #d17100;text-decoration: underline"
+#| "\">%(site_name)s</a> is using GoNevis to publish things on the internet!"
 msgid ""
-"<a href=\"%(site_url)s\" style=\"color: #d17100;text-decoration: underline\">"
-"%(site_name)s</a> is using GoNevis to publish things on the internet!"
+"<a href=\"%(site_url)s\" style=\"color: #d17100;text-decoration: none !"
+"important\">%(site_name)s</a> is using GoNevis to publish things on the "
+"internet!"
 msgstr ""
 "<a href=\"%(site_url)s\" style=\"color: #d17100;text-decoration: underline\">"
 "%(site_name)s</a> از گونویس برای انتشار در اینترنت استفاده میکند!"
 
-#, python-format
+#, fuzzy, python-format
+#| msgid ""
+#| "<a href=\"%(invited_by_profile_url)s\" style=\"color: #d17100;text-"
+#| "decoration: underline\">%(invited_by_name)s</a> has invited you to join. "
+#| "Please click on the button below to activate your account."
 msgid ""
 "<a href=\"%(invited_by_profile_url)s\" style=\"color: #d17100;text-"
-"decoration: underline\">%(invited_by_name)s</a> has invited you to join. "
-"Please click on the button below to activate your account."
+"decoration: none !important\">%(invited_by_name)s</a> has invited you to "
+"join. Please click on the button below to activate your account."
 msgstr ""
 "<a href=\"%(invited_by_profile_url)s\" style=\"color: #d17100;text-"
 "decoration: underline\">%(invited_by_name)s</a>شما را به عضویت دعوت کرده. "
@@ -352,11 +396,11 @@ msgstr ""
 #, python-format
 msgid ""
 "If you have trouble activating your <a href=\"%(site_url)s\" style=\"color: "
-"#d17100;text-decoration: underline\">%(site_name)s</a> account, you can "
-"reach out to <a href=\"%(invited_by_profile_url)s\" style=\"color: #d17100;"
-"text-decoration: underline\">%(invited_by_name)s</a> on <a href=\"mailto:"
-"%(invited_by_email)s\" style=\"color: #d17100;text-decoration: underline\">"
-"%(invited_by_email)s</a> for assistance."
+"#d17100;text-decoration: none !important\">%(site_name)s</a> account, you "
+"can reach out to <a href=\"%(invited_by_profile_url)s\" style=\"color: "
+"#d17100;text-decoration: none !important\">%(invited_by_name)s</a> on <a "
+"href=\"mailto:%(invited_by_email)s\" style=\"color: #d17100;text-decoration: "
+"none !important\">%(invited_by_email)s</a> for assistance."
 msgstr ""
 
 msgid "Activate Account"
@@ -368,18 +412,20 @@ msgstr "سلام، خبر خوش! شما با موفقیت یک وبسایت ج�
 msgid "You can log in to your admin account with the following details:"
 msgstr "شما میتوانید با به حساب مدیریتی خود با مشخصات زیر وارد شوید:"
 
-msgid "Username"
-msgstr "نام کاربری"
-
 msgid "Password: The password you chose when you signed up."
 msgstr "رمز عبور، رمز عبوری که هنگام ثبت نام استفاده کردید."
 
-#, python-format
+#, fuzzy, python-format
+#| msgid ""
+#| "<a href=\"%(invited_by_profile_url)s\" style=\"color: #d17100;text-"
+#| "decoration: underline\">%(invited_by_name)s</a> has given you access to "
+#| "<a href=\"%(site_url)s\" style=\"color: #d17100;text-decoration: underline"
+#| "\">%(site_name)s</a>."
 msgid ""
 "<a href=\"%(invited_by_profile_url)s\" style=\"color: #d17100;text-"
-"decoration: underline\">%(invited_by_name)s</a> has given you access to <a "
-"href=\"%(site_url)s\" style=\"color: #d17100;text-decoration: underline\">"
-"%(site_name)s</a>."
+"decoration: none !important\">%(invited_by_name)s</a> has given you access "
+"to <a href=\"%(site_url)s\" style=\"color: #d17100;text-decoration: none !"
+"important\">%(site_name)s</a>."
 msgstr ""
 "<a href=\"%(invited_by_profile_url)s\" style=\"color: #d17100;text-"
 "decoration: underline\">%(invited_by_name)s</a> به شما اجازه دسترسی به <a "
@@ -415,6 +461,11 @@ msgstr ""
 "%(subscriber_name)s مشترک سایت شما شده %(site_title)s و شروع به دنبال کردن "
 "کرده."
 
+#, fuzzy
+#| msgid "DRAFT"
+msgid "[DRAFT]"
+msgstr "پیش نویس"
+
 msgid "RSS feed"
 msgstr "خوراک RSS"
 
@@ -425,17 +476,25 @@ msgstr "نتایج <b class=\"text-primary\">%(search_query)s</b>"
 msgid "Comment"
 msgstr "دیدگاه"
 
+#, fuzzy
+#| msgid "Read more..."
+msgid "Read More"
+msgstr "بیشتر بخوان..."
+
+msgid "No posts..."
+msgstr ""
+
 msgid "Sticky Navbar"
 msgstr "ناوبری چسبنده"
 
 msgid "Fixed navbar position on top"
 msgstr "اثبات موقعیت ناوبری در بالا"
 
-msgid "Light header"
-msgstr "سربرگ روشن"
+msgid "Navbar inverse"
+msgstr "ناوبری معکوس"
 
-msgid "Choose light header"
-msgstr "سربرگ روشن را انتخاب کنید"
+msgid "Inverse navbar color (black)"
+msgstr "رنگ معکوس (ناوبری)"
 
 msgid "Follow"
 msgstr "دنبال کردن"
@@ -493,9 +552,6 @@ msgstr "تنظیمات حساب کاربری"
 msgid "Log out"
 msgstr "خارج شدن"
 
-msgid "Password"
-msgstr "رمز عبور"
-
 msgid "Log in"
 msgstr "ورود"
 
@@ -508,14 +564,38 @@ msgstr "فراموشی رمز عبور"
 msgid "View more"
 msgstr "دیدن بیشتر"
 
-msgid "Navbar inverse"
-msgstr "ناوبری معکوس"
-
-msgid "Inverse navbar color (black)"
-msgstr "رنگ معکوس (ناوبری)"
-
 msgid "Followers"
 msgstr "دنبال کنندگان"
+
+msgid "FOUND:"
+msgstr ""
+
+#, python-format
+msgid ""
+"<h4>Couldn't find any entry tagged <b class=\"tag\"><i class=\"fa o-fade fa-"
+"hashtag\"></i> %(tag.slug)s</b></h4>"
+msgstr ""
+
+msgid ""
+"<h5>Let's head to <a href=\"/\"><i class=\"fa fa-home\"></i> home</a></h5>"
+msgstr ""
+
+#, fuzzy
+#| msgid "RSS feed for %(tag_name)s"
+msgid "RSS feed for {{ tag.name }}"
+msgstr "خوراک RSS برای %(tag_name)s"
+
+#, python-format
+msgid ""
+"<h3>Couldn't find any match for <b>'%(search_query)s'</b><h3> <h4>Try other "
+"keywords...</h4> <h5>Or go <a href=\"/\">home</a></h5>"
+msgstr ""
+
+#, python-format
+msgid ""
+"Results for <b>%(search_query)s</b> <br> <small>Found %(entry_list.count)s</"
+"small>"
+msgstr ""
 
 msgid "Show site cover image"
 msgstr "نمایش عکس جلد وبسایت"

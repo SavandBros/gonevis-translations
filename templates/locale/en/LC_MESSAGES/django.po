@@ -37,6 +37,15 @@ msgstr ""
 msgid "Please login to see this page."
 msgstr ""
 
+msgid "Username"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Login"
+msgstr ""
+
 msgid "Lost password?"
 msgstr ""
 
@@ -256,19 +265,19 @@ msgstr ""
 #, python-format
 msgid ""
 "<a href=\"%(user_profile_url)s\" style=\"color: #d17100;text-decoration: "
-"underline\">%(user_name)s</a> responded to \"%(object_title)s\":"
+"none !important\">%(user_name)s</a> responded to \"%(object_title)s\":"
 msgstr ""
 
 msgid "View Comment"
 msgstr ""
 
-msgid "Mute this post"
+msgid "Unsubscribe"
 msgstr ""
 
 msgid ""
 "Made with <span class=\"heart\" style=\"color: #e74c3c;font-size: 12px;text-"
-"align: center\">❤</span> and brought to you by <a href=\"https://gonevis.com"
-"\" style=\"text-decoration: none;color: #d17100\">GoNevis</a>."
+"align: center\">❤</span>and brought to you by <a href=\"https://gonevis.com"
+"\" style=\"text-decoration: none !important;color: #d17100\">GoNevis</a>."
 msgstr ""
 
 msgid "Hello,"
@@ -280,7 +289,7 @@ msgstr ""
 
 msgid ""
 "You're in! Thanks for signing up for an account on <a href=\"https://gonevis."
-"com/\" style=\"color: #d17100;text-decoration: underline\">GoNevis</a>."
+"com/\" style=\"color: #d17100;text-decoration: none !important\">GoNevis</a>."
 msgstr ""
 
 #, python-format
@@ -292,6 +301,12 @@ msgstr ""
 msgid "Confirm"
 msgstr ""
 
+msgid ""
+"Made with <span class=\"heart\" style=\"color: #e74c3c;font-size: 12px;text-"
+"align: center\">❤</span> and brought to you by <a href=\"https://gonevis.com"
+"\" style=\"text-decoration: none !important;color: #d17100\">GoNevis</a>."
+msgstr ""
+
 msgid "Continue Reading"
 msgstr ""
 
@@ -300,25 +315,26 @@ msgstr ""
 
 #, python-format
 msgid ""
-"<a href=\"%(site_url)s\" style=\"color: #d17100;text-decoration: underline\">"
-"%(site_name)s</a> is using GoNevis to publish things on the internet!"
+"<a href=\"%(site_url)s\" style=\"color: #d17100;text-decoration: none !"
+"important\">%(site_name)s</a> is using GoNevis to publish things on the "
+"internet!"
 msgstr ""
 
 #, python-format
 msgid ""
 "<a href=\"%(invited_by_profile_url)s\" style=\"color: #d17100;text-"
-"decoration: underline\">%(invited_by_name)s</a> has invited you to join. "
-"Please click on the button below to activate your account."
+"decoration: none !important\">%(invited_by_name)s</a> has invited you to "
+"join. Please click on the button below to activate your account."
 msgstr ""
 
 #, python-format
 msgid ""
 "If you have trouble activating your <a href=\"%(site_url)s\" style=\"color: "
-"#d17100;text-decoration: underline\">%(site_name)s</a> account, you can "
-"reach out to <a href=\"%(invited_by_profile_url)s\" style=\"color: #d17100;"
-"text-decoration: underline\">%(invited_by_name)s</a> on <a href=\"mailto:"
-"%(invited_by_email)s\" style=\"color: #d17100;text-decoration: underline\">"
-"%(invited_by_email)s</a> for assistance."
+"#d17100;text-decoration: none !important\">%(site_name)s</a> account, you "
+"can reach out to <a href=\"%(invited_by_profile_url)s\" style=\"color: "
+"#d17100;text-decoration: none !important\">%(invited_by_name)s</a> on <a "
+"href=\"mailto:%(invited_by_email)s\" style=\"color: #d17100;text-decoration: "
+"none !important\">%(invited_by_email)s</a> for assistance."
 msgstr ""
 
 msgid "Activate Account"
@@ -330,18 +346,15 @@ msgstr ""
 msgid "You can log in to your admin account with the following details:"
 msgstr ""
 
-msgid "Username"
-msgstr ""
-
 msgid "Password: The password you chose when you signed up."
 msgstr ""
 
 #, python-format
 msgid ""
 "<a href=\"%(invited_by_profile_url)s\" style=\"color: #d17100;text-"
-"decoration: underline\">%(invited_by_name)s</a> has given you access to <a "
-"href=\"%(site_url)s\" style=\"color: #d17100;text-decoration: underline\">"
-"%(site_name)s</a>."
+"decoration: none !important\">%(invited_by_name)s</a> has given you access "
+"to <a href=\"%(site_url)s\" style=\"color: #d17100;text-decoration: none !"
+"important\">%(site_name)s</a>."
 msgstr ""
 
 msgid "View Site"
@@ -370,6 +383,9 @@ msgid ""
 "following."
 msgstr ""
 
+msgid "[DRAFT]"
+msgstr ""
+
 msgid "RSS feed"
 msgstr ""
 
@@ -380,16 +396,22 @@ msgstr ""
 msgid "Comment"
 msgstr ""
 
+msgid "Read More"
+msgstr ""
+
+msgid "No posts..."
+msgstr ""
+
 msgid "Sticky Navbar"
 msgstr ""
 
 msgid "Fixed navbar position on top"
 msgstr ""
 
-msgid "Light header"
+msgid "Navbar inverse"
 msgstr ""
 
-msgid "Choose light header"
+msgid "Inverse navbar color (black)"
 msgstr ""
 
 msgid "Follow"
@@ -446,9 +468,6 @@ msgstr ""
 msgid "Log out"
 msgstr ""
 
-msgid "Password"
-msgstr ""
-
 msgid "Log in"
 msgstr ""
 
@@ -461,13 +480,35 @@ msgstr ""
 msgid "View more"
 msgstr ""
 
-msgid "Navbar inverse"
-msgstr ""
-
-msgid "Inverse navbar color (black)"
-msgstr ""
-
 msgid "Followers"
+msgstr ""
+
+msgid "FOUND:"
+msgstr ""
+
+#, python-format
+msgid ""
+"<h4>Couldn't find any entry tagged <b class=\"tag\"><i class=\"fa o-fade fa-"
+"hashtag\"></i> %(tag.slug)s</b></h4>"
+msgstr ""
+
+msgid ""
+"<h5>Let's head to <a href=\"/\"><i class=\"fa fa-home\"></i> home</a></h5>"
+msgstr ""
+
+msgid "RSS feed for {{ tag.name }}"
+msgstr ""
+
+#, python-format
+msgid ""
+"<h3>Couldn't find any match for <b>'%(search_query)s'</b><h3> <h4>Try other "
+"keywords...</h4> <h5>Or go <a href=\"/\">home</a></h5>"
+msgstr ""
+
+#, python-format
+msgid ""
+"Results for <b>%(search_query)s</b> <br> <small>Found %(entry_list.count)s</"
+"small>"
 msgstr ""
 
 msgid "Show site cover image"
