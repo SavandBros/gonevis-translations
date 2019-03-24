@@ -73,22 +73,22 @@ msgstr ""
 msgid "Site is required."
 msgstr ""
 
+msgid "Invalid Subscription."
+msgstr ""
+
+msgid "Invalid Plan."
+msgstr ""
+
+msgid "Already subscribed to the plan."
+msgstr ""
+
+msgid "File does not exists."
+msgstr ""
+
 msgid "You're not owner of the site."
 msgstr ""
 
 msgid "What?"
-msgstr ""
-
-msgid "It's not possible to promote a user to be an Owner."
-msgstr ""
-
-msgid "Please don't do self promotion."
-msgstr ""
-
-msgid "This email is already team member."
-msgstr ""
-
-msgid "Already has been invited."
 msgstr ""
 
 msgid "Cannot find the selected template."
@@ -118,6 +118,22 @@ msgstr ""
 msgid "Invalid domain."
 msgstr ""
 
+msgid "It's not possible to promote a user to be an Owner."
+msgstr ""
+
+msgid "Please don't do self promotion."
+msgstr ""
+
+msgid "This email is already a team member."
+msgstr ""
+
+msgid "Already has been invited."
+msgstr ""
+
+msgid ""
+"You have reached the max number of allowed team members, please upgrade."
+msgstr ""
+
 msgid "Please upload a valid ZIP file."
 msgstr ""
 
@@ -145,6 +161,9 @@ msgid "Commenting is not enabled."
 msgstr ""
 
 msgid "Your email is not verified."
+msgstr ""
+
+msgid "Does not exist."
 msgstr ""
 
 msgid "Commenting is disabled."

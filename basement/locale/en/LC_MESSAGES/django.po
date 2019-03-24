@@ -25,6 +25,23 @@ msgstr ""
 msgid "Subject"
 msgstr ""
 
+msgid "Create your blog for free"
+msgstr ""
+
+msgid ""
+"Create your own unique blog for free with customizable themes and advanced "
+"dashboard."
+msgstr ""
+
+msgid "Explore GoNevis"
+msgstr ""
+
+msgid "Explore latest posts on GoNevis and find creative bloggers to follow."
+msgstr ""
+
+msgid "Pricing"
+msgstr ""
+
 msgid "Terms of Service"
 msgstr ""
 

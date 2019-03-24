@@ -58,15 +58,16 @@ msgstr ""
 msgid "About"
 msgstr ""
 
-msgid ""
-"Create your own unique blog for free with customizable themes and advanced "
-"dashboard."
+msgid "Who we are"
 msgstr ""
 
-msgid "GoNevis, blogging, blog, platform, free, website, build"
+msgid "How GoNevis.com makes money"
 msgstr ""
 
-msgid "SavandBros"
+msgid "Who’s behind GoNevis.com"
+msgstr ""
+
+msgid "GoNevis, blogging, blog, platform, free"
 msgstr ""
 
 msgid "GoNevis"
@@ -78,13 +79,16 @@ msgstr ""
 msgid "Get Started"
 msgstr ""
 
-msgid "&copy; 2018 GoNevis.com"
-msgstr ""
-
 msgid "Blog"
 msgstr ""
 
+msgid "Explore"
+msgstr ""
+
 msgid "About Us"
+msgstr ""
+
+msgid "Pricing"
 msgstr ""
 
 msgid "Contact Us"
@@ -96,13 +100,19 @@ msgstr ""
 msgid "Privacy Policy"
 msgstr ""
 
+msgid "Get in touch with GoNevis"
+msgstr ""
+
+msgid "You may send your message directly to this email as well:"
+msgstr ""
+
+msgid "Send us a message"
+msgstr ""
+
 msgid "We received your message and will get in touch soon."
 msgstr ""
 
 msgid "Thank you <3"
-msgstr ""
-
-msgid "You may send your message directly to this email as well:"
 msgstr ""
 
 #, python-format
@@ -121,13 +131,13 @@ msgstr ""
 msgid "Create %(site_name)s"
 msgstr ""
 
-msgid "Create your blog for free"
+msgid "Blogging."
 msgstr ""
 
-msgid "GoNevis is a professional blog publishing platform."
+msgid "Now for the rest of us."
 msgstr ""
 
-msgid "From simple personal blogging to professional multi-author publishing."
+msgid "GoNevis lets you start your blog, write and share for free."
 msgstr ""
 
 msgid "Start a Blog"
@@ -136,22 +146,28 @@ msgstr ""
 msgid "Posts Overview"
 msgstr ""
 
-msgid "Free Subdomain"
+msgid "Free Domain"
 msgstr ""
 
-msgid "Get a free subdomain registered<br>under gonevis.com"
+msgid ""
+"You don't have to buy a domain to start a blog. Get a free subdomain "
+"registered under gonevis.com."
 msgstr ""
 
-msgid "Dashboard"
+msgid "Admin Dashboard"
 msgstr ""
 
-msgid "Advanced dashboard built to<br>manage your blog"
+msgid ""
+"Advanced admin dashboard to easily manage your blog, built for focus and "
+"productivity."
 msgstr ""
 
-msgid "Themes"
+msgid "Look & Feel"
 msgstr ""
 
-msgid "Stunning customizable<br>themes to pick"
+msgid ""
+"Stunning customizable<br>themes to pick, each suitable for different kind of "
+"blogging."
 msgstr ""
 
 msgid "Posts"
@@ -160,17 +176,25 @@ msgstr ""
 msgid "Files"
 msgstr ""
 
+msgid "Manage Everything in one Place"
+msgstr ""
+
 msgid ""
-"Advanced dashboard is built to manage your blog with easy-to-use features."
+"We built an advanced dashboard that lets you manage your blog and your "
+"experience in one place, crafted to keep you productive."
 msgstr ""
 
-msgid "<b>Editor</b> with dark and light mode."
+msgid ""
+"WYSIWYG <b>Editor</b> to let you write the way you like, packed with "
+"features to enhance your writing experience."
 msgstr ""
 
-msgid "<b>Overview</b> for posts, comments, storage, team and more."
+msgid "<b>Central Overview</b> for posts, comments, storage, team and more."
 msgstr ""
 
-msgid "<b>File Manager</b> for your images, videos, documents, etc."
+msgid ""
+"A <b>File Manager</b> to keep your images, documents and other files in one "
+"place."
 msgstr ""
 
 msgid "Appearance"
@@ -196,7 +220,8 @@ msgid "Search"
 msgstr ""
 
 msgid ""
-"GoNevis is fully optimized for search engines and content sharing sites."
+"GoNevis is fully optimized for search engines and content sharing sites and "
+"comes with a built in search for your blog."
 msgstr ""
 
 msgid "Share"
@@ -215,7 +240,7 @@ msgid ""
 "entry editor."
 msgstr ""
 
-msgid "Users & Personalities"
+msgid "Group Blogging"
 msgstr ""
 
 msgid ""
@@ -224,11 +249,10 @@ msgid ""
 msgstr ""
 
 msgid ""
-"This is how you're going to handle your team on each blog, grow from single "
-"writer to thousands ;)"
+"A blog can be managed by the team and not only one person, bring your team!"
 msgstr ""
 
-msgid "Theme Config"
+msgid "Customize Look & Feel"
 msgstr ""
 
 msgid ""
@@ -236,9 +260,13 @@ msgid ""
 "customize your blog the way you want to."
 msgstr ""
 
-msgid ""
-"GoNevis template configuration engine gets enhancement day by day and it's "
-"getting much advanced while keeping its simplicity."
+msgid "Join GoNevis for free."
+msgstr ""
+
+msgid "Start Your Blog Now"
+msgstr ""
+
+msgid "Explore GoNevis"
 msgstr ""
 
 msgid "Mute thread"
@@ -248,139 +276,138 @@ msgstr ""
 msgid "No longer want to receive notification for \"%(entry_title)s\"."
 msgstr ""
 
-#, python-format
-msgid "Published by %(user_name)s"
+msgid "Start blogging right away, be part of community and start publishing!"
 msgstr ""
 
-msgid "Read more..."
+msgid "Free"
 msgstr ""
 
-#, python-format
-msgid "%(user_name)s hasn't published anything yet."
+msgid "$0 forever"
 msgstr ""
 
-msgid "Publications"
+msgid "GoNevis.com subdomain."
 msgstr ""
 
-#, python-format
-msgid ""
-"<a href=\"%(user_profile_url)s\" style=\"color: #d17100;text-decoration: "
-"none !important\">%(user_name)s</a> responded to \"%(object_title)s\":"
+msgid "No Ads"
 msgstr ""
 
-msgid "View Comment"
+msgid "create or manage as many blog as you like"
 msgstr ""
 
-msgid "Unsubscribe"
+msgid "Unlimited Blogs"
 msgstr ""
 
-msgid ""
-"Made with <span class=\"heart\" style=\"color: #e74c3c;font-size: 12px;text-"
-"align: center\">❤</span>and brought to you by <a href=\"https://gonevis.com"
-"\" style=\"text-decoration: none !important;color: #d17100\">GoNevis</a>."
+msgid "Free Themes"
 msgstr ""
 
-msgid "Hello,"
+msgid "Email Support"
 msgstr ""
 
-#, python-format
-msgid "You have asked to register an account at <b>%(gonevis_site_name)s</b>"
+msgid "<b>1</b> GB Storage"
 msgstr ""
 
-msgid ""
-"You're in! Thanks for signing up for an account on <a href=\"https://gonevis."
-"com/\" style=\"color: #d17100;text-decoration: none !important\">GoNevis</a>."
+msgid "SEO Optimization"
 msgstr ""
 
-#, python-format
-msgid ""
-"To keep the dirty spammers out and make sure you're a human, please confirm "
-"email address within the next %(expiration_days)s days:"
+msgid "Basic UI Customization"
 msgstr ""
 
-msgid "Confirm"
+msgid "<b>1</b> Team Members"
 msgstr ""
 
-msgid ""
-"Made with <span class=\"heart\" style=\"color: #e74c3c;font-size: 12px;text-"
-"align: center\">❤</span> and brought to you by <a href=\"https://gonevis.com"
-"\" style=\"text-decoration: none !important;color: #d17100\">GoNevis</a>."
+msgid "Upload Images and Pictures"
 msgstr ""
 
-msgid "Continue Reading"
+msgid "Use your own logo"
 msgstr ""
 
-msgid "Welcome"
+msgid "Personal"
 msgstr ""
 
-#, python-format
-msgid ""
-"<a href=\"%(site_url)s\" style=\"color: #d17100;text-decoration: none !"
-"important\">%(site_name)s</a> is using GoNevis to publish things on the "
-"internet!"
+msgid "$4.99/mo"
 msgstr ""
 
-#, python-format
-msgid ""
-"<a href=\"%(invited_by_profile_url)s\" style=\"color: #d17100;text-"
-"decoration: none !important\">%(invited_by_name)s</a> has invited you to "
-"join. Please click on the button below to activate your account."
+msgid "Custom Domain"
 msgstr ""
 
-#, python-format
-msgid ""
-"If you have trouble activating your <a href=\"%(site_url)s\" style=\"color: "
-"#d17100;text-decoration: none !important\">%(site_name)s</a> account, you "
-"can reach out to <a href=\"%(invited_by_profile_url)s\" style=\"color: "
-"#d17100;text-decoration: none !important\">%(invited_by_name)s</a> on <a "
-"href=\"mailto:%(invited_by_email)s\" style=\"color: #d17100;text-decoration: "
-"none !important\">%(invited_by_email)s</a> for assistance."
+msgid "Email & Live Chat Support"
 msgstr ""
 
-msgid "Activate Account"
+msgid "<b>5</b> GB Storage"
 msgstr ""
 
-msgid "Hello, Good news! You've successfully created a brand new website."
+msgid "<b>5</b> Team Members"
 msgstr ""
 
-msgid "You can log in to your admin account with the following details:"
+msgid "Upload Images, Audio, Documents and Archives"
 msgstr ""
 
-msgid "Password: The password you chose when you signed up."
+msgid "No GoNevis.com Branding"
 msgstr ""
 
-#, python-format
-msgid ""
-"<a href=\"%(invited_by_profile_url)s\" style=\"color: #d17100;text-"
-"decoration: none !important\">%(invited_by_name)s</a> has given you access "
-"to <a href=\"%(site_url)s\" style=\"color: #d17100;text-decoration: none !"
-"important\">%(site_name)s</a>."
+msgid "Professional"
 msgstr ""
 
-msgid "View Site"
+msgid "$9.99/mo"
 msgstr ""
 
-#, python-format
-msgid "Hello %(user_name)s,"
+msgid "Premium Themes"
 msgstr ""
 
-msgid "Please click the button below to reset your password:"
+msgid "<b>10</b> GB Storage"
 msgstr ""
 
-msgid "If you didn't request this password reset, please ignore it."
+msgid "Advanced UI Customization"
 msgstr ""
 
-msgid "Reset Password"
+msgid "<b>25</b> Team Members"
+msgstr ""
+
+msgid "Your own Google Analytics"
+msgstr ""
+
+msgid "Custom Footer"
+msgstr ""
+
+msgid "HOME"
+msgstr ""
+
+msgid "WRITE"
+msgstr ""
+
+msgid "DASHBOARD"
+msgstr ""
+
+msgid "PROFILE"
+msgstr ""
+
+msgid "GET STARTED"
+msgstr ""
+
+msgid "SIGN IN"
 msgstr ""
 
 #, python-format
-msgid "Hello %(site_owner_name)s, You got a new subscriber."
+msgid "Published by <b>%(name)s</b>"
+msgstr ""
+
+msgid "Explore <b>GoNevis</b>"
+msgstr ""
+
+msgid "Newer"
+msgstr ""
+
+msgid "Older"
 msgstr ""
 
 #, python-format
-msgid ""
-"%(subscriber_name)s subscribed to your site %(site_title)s and started "
-"following."
+msgid "By %(name)s in %(title)s"
+msgstr ""
+
+msgid "Read More"
+msgstr ""
+
+msgid "No posts published yet."
 msgstr ""
 
 msgid "[DRAFT]"
@@ -394,9 +421,6 @@ msgid "Results for <b class=\"text-primary\">%(search_query)s</b>"
 msgstr ""
 
 msgid "Comment"
-msgstr ""
-
-msgid "Read More"
 msgstr ""
 
 msgid "No posts..."
@@ -428,6 +452,15 @@ msgstr ""
 msgid "Click to Unfollow and stop receiving updates from %(site_title)s"
 msgstr ""
 
+msgid "Are you sure you want to delete?"
+msgstr ""
+
+#, python-format
+msgid ""
+"Results for\n"
+"      <b class=\"text-primary\">%(search_query)s</b>"
+msgstr ""
+
 msgid "Like"
 msgstr ""
 
@@ -435,6 +468,12 @@ msgid "Display recent entries"
 msgstr ""
 
 msgid "Display recent entries on right sidebar"
+msgstr ""
+
+msgid "Featured"
+msgstr ""
+
+msgid "Menu"
 msgstr ""
 
 #, python-format
@@ -459,7 +498,43 @@ msgstr ""
 msgid "Show logo"
 msgstr ""
 
-msgid "Menu"
+msgid "likes"
+msgstr ""
+
+msgid "views"
+msgstr ""
+
+#, python-format
+msgid ""
+"\n"
+"        Tagged with <span class=\"border-primary border-bottom\">#"
+"%(tag_slug)s</span>\n"
+"      "
+msgstr ""
+
+#, python-format
+msgid ""
+"Results for <span class=\"border-primary border-bottom\">%(search_query)s</"
+"span>\n"
+"      "
+msgstr ""
+
+msgid "Dark"
+msgstr ""
+
+msgid "User dark mode."
+msgstr ""
+
+msgid "Author"
+msgstr ""
+
+msgid "Display blog"
+msgstr ""
+
+msgid "Display edit date"
+msgstr ""
+
+msgid "Display last time page or past has been edited."
 msgstr ""
 
 msgid "Account settings"
@@ -477,50 +552,62 @@ msgstr ""
 msgid "Forgot Password"
 msgstr ""
 
-msgid "View more"
+msgid "Dashboard"
 msgstr ""
 
 msgid "Followers"
 msgstr ""
 
-msgid "FOUND:"
+msgid "View more"
 msgstr ""
 
 #, python-format
 msgid ""
-"<h4>Couldn't find any entry tagged <b class=\"tag\"><i class=\"fa o-fade fa-"
-"hashtag\"></i> %(tag.slug)s</b></h4>"
+"Powered by <a class=\"col-dark t-bold\" href=\"%(gonevis_url)s\">GoNevis</"
+"a>.\n"
+"              "
 msgstr ""
 
-msgid ""
-"<h5>Let's head to <a href=\"/\"><i class=\"fa fa-home\"></i> home</a></h5>"
+msgid "DRAFT"
 msgstr ""
 
-msgid "RSS feed for {{ tag.name }}"
+#, python-format
+msgid "Results for \"%(search_query)s\""
+msgstr ""
+
+msgid "No underline"
+msgstr ""
+
+msgid "Remove underline effect when hovering on links."
+msgstr ""
+
+msgid " Search "
+msgstr ""
+
+msgid "Recent Posts"
+msgstr ""
+
+msgid "Popular Tags"
 msgstr ""
 
 #, python-format
 msgid ""
-"<h3>Couldn't find any match for <b>'%(search_query)s'</b><h3> <h4>Try other "
-"keywords...</h4> <h5>Or go <a href=\"/\">home</a></h5>"
+"Results for\n"
+"      <span style=\"color: #ff615f;\">%(search_query)s</span>"
+msgstr ""
+
+msgid "Sticky Header"
+msgstr ""
+
+msgid "Fixed header position on top"
 msgstr ""
 
 #, python-format
-msgid ""
-"Results for <b>%(search_query)s</b> <br> <small>Found %(entry_list.count)s</"
-"small>"
+msgid "Tagged with %(tag_slug)s"
 msgstr ""
 
-msgid "Show site cover image"
-msgstr ""
-
-msgid "Title and description on cover"
-msgstr ""
-
-msgid "Show title and description on cover"
-msgstr ""
-
-msgid "Powered by "
+#, python-format
+msgid "Results for %(search_query)s"
 msgstr ""
 
 #, python-format
@@ -529,17 +616,6 @@ msgstr ""
 
 #, python-format
 msgid "Joined at %(date)s"
-msgstr ""
-
-#, python-format
-msgid "Show all %(author)s's entries"
-msgstr ""
-
-#, python-format
-msgid "%(entry_count)s entry"
-msgstr ""
-
-msgid "No authors yet."
 msgstr ""
 
 msgid "Comments"
@@ -551,24 +627,28 @@ msgstr ""
 msgid "ago"
 msgstr ""
 
+msgid "Vote comment"
+msgstr ""
+
+msgid "Edit comment"
+msgstr ""
+
+msgid "More options"
+msgstr ""
+
+msgid "Delete comment"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
 msgid "Be the first to comment."
 msgstr ""
 
-msgid "No draft entries."
-msgstr ""
-
 msgid "No entries yet."
-msgstr ""
-
-#, python-format
-msgid "Comments on %(object)s"
-msgstr ""
-
-#, python-format
-msgid "%(comment_count)s comment"
-msgstr ""
-
-msgid "No similar entries."
 msgstr ""
 
 #, python-format
@@ -576,52 +656,21 @@ msgid ""
 "Powered by <a class=\"col-dark t-bold\" href=\"%(gonevis_url)s\">GoNevis</a>."
 msgstr ""
 
-msgid "Newer"
-msgstr ""
-
-msgid "Older"
-msgstr ""
-
 #, python-format
 msgid "RSS feed for %(tag_name)s"
 msgstr ""
 
-#, python-format
-msgid "%(entry_count)s entry tagged by %(tag)s"
-msgstr ""
-
-msgid "No tags yet."
-msgstr ""
-
-#, python-format
-msgid "Results for %(search_query)s"
-msgstr ""
-
 msgid "Pinned"
+msgstr ""
+
+msgid "Show Post Content"
+msgstr ""
+
+msgid "Show content of the post in post page."
 msgstr ""
 
 msgid "Dark Header"
 msgstr ""
 
 msgid "Change color of header (navbar) to black"
-msgstr ""
-
-msgid "Sticky Header"
-msgstr ""
-
-msgid "Fixed header position on top"
-msgstr ""
-
-msgid "DRAFT"
-msgstr ""
-
-#, python-format
-msgid "Latest by %(display_name)s"
-msgstr ""
-
-#, python-format
-msgid "Tagged with %(tag_slug)s"
-msgstr ""
-
-msgid "Featured"
 msgstr ""

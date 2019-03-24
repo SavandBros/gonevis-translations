@@ -46,6 +46,14 @@ msgstr "یکی دیگر از وبسایت های گونویس."
 msgid "Powered by <a href=\"https://www.gonevis.com\">GoNevis</a>."
 msgstr "قدرت گرفته توسط <a href=\"https://www.gonevis.com\">گونویس</a>."
 
+#, fuzzy
+#| msgid "Just another GoNevis Site."
+msgid "Just another GoNevis blog."
+msgstr "یکی دیگر از وبسایت های گونویس."
+
+msgid "You need to upgrade your subscription plan to make such action."
+msgstr "شما باید طرح تعرفه خود را ارتقاع دهید تا چنین کاری را انجام دهید."
+
 msgid "The search query is too short."
 msgstr "کلمه جستجو خیلی کوتاه است."
 
