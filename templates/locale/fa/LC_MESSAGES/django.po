@@ -47,7 +47,7 @@ msgid "Password"
 msgstr "رمز عبور"
 
 msgid "Login"
-msgstr ""
+msgstr "ورود"
 
 msgid "Lost password?"
 msgstr "رمز عبور گم شده ؟"
@@ -62,13 +62,13 @@ msgid "About"
 msgstr "درباره"
 
 msgid "Who we are"
-msgstr ""
+msgstr "ما کی هستیم"
 
 msgid "How GoNevis.com makes money"
-msgstr ""
+msgstr "گونویس چگونه درآمد دارد؟"
 
 msgid "Who’s behind GoNevis.com"
-msgstr ""
+msgstr "گرداننده گونویس کیست؟"
 
 #, fuzzy
 #| msgid "GoNevis, blogging, blog, platform, free, website, build"
@@ -88,13 +88,13 @@ msgid "Blog"
 msgstr "بلاگ"
 
 msgid "Explore"
-msgstr ""
+msgstr "کاوش"
 
 msgid "About Us"
 msgstr "درباره ما"
 
 msgid "Pricing"
-msgstr ""
+msgstr "نعرفه ها"
 
 msgid "Contact Us"
 msgstr "تماس با ما"
@@ -106,13 +106,13 @@ msgid "Privacy Policy"
 msgstr "اصول محرمانه"
 
 msgid "Get in touch with GoNevis"
-msgstr ""
+msgstr "با گونویس در تماس باشید"
 
 msgid "You may send your message directly to this email as well:"
 msgstr "شما همچنین می توانید پیام خود را به ما مستقیم ارسال کنید:"
 
 msgid "Send us a message"
-msgstr ""
+msgstr "پیامی برای ما ارسال کنید"
 
 msgid "We received your message and will get in touch soon."
 msgstr "ما پیام شما را دریافت کردیم و به زودی در تماس خواهیم بود."
@@ -142,7 +142,7 @@ msgid "Blogging."
 msgstr "بلاگ"
 
 msgid "Now for the rest of us."
-msgstr ""
+msgstr "حالا، برای همه ما."
 
 msgid "GoNevis lets you start your blog, write and share for free."
 msgstr ""
@@ -181,7 +181,7 @@ msgstr ""
 "مدیریت کنید."
 
 msgid "Look & Feel"
-msgstr ""
+msgstr "حال و هوا"
 
 #, fuzzy
 #| msgid "Stunning customizable<br>themes to pick"
@@ -197,7 +197,7 @@ msgid "Files"
 msgstr "فایل ها"
 
 msgid "Manage Everything in one Place"
-msgstr ""
+msgstr "همه چیز را در یک مکان مدیریت کنید"
 
 msgid ""
 "We built an advanced dashboard that lets you manage your blog and your "
@@ -275,7 +275,7 @@ msgstr ""
 "وبلاگ یا از ویرایشگر متن سفارشی کنید."
 
 msgid "Group Blogging"
-msgstr ""
+msgstr "وبلاگ گروهی"
 
 msgid ""
 "Not everyone requires the same access to your blog. Administrators manage "
@@ -331,13 +331,13 @@ msgid "GoNevis.com subdomain."
 msgstr ""
 
 msgid "No Ads"
-msgstr ""
+msgstr "بدون آگهی"
 
 msgid "create or manage as many blog as you like"
 msgstr ""
 
 msgid "Unlimited Blogs"
-msgstr ""
+msgstr "وبلاگ نامحدود"
 
 #, fuzzy
 #| msgid "Themes"
@@ -348,7 +348,7 @@ msgid "Email Support"
 msgstr ""
 
 msgid "<b>1</b> GB Storage"
-msgstr ""
+msgstr "<b>1</b> گیگاباید فضا"
 
 #, fuzzy
 #| msgid "Search Engine Optimization"
@@ -365,16 +365,16 @@ msgid "Upload Images and Pictures"
 msgstr ""
 
 msgid "Use your own logo"
-msgstr ""
+msgstr "از لوگوی خودتان استفاده کنید"
 
 msgid "Personal"
-msgstr ""
+msgstr "شخصی"
 
 msgid "$4.99/mo"
 msgstr ""
 
 msgid "Custom Domain"
-msgstr ""
+msgstr "دامنه دلخواه"
 
 msgid "Email & Live Chat Support"
 msgstr ""
@@ -577,7 +577,7 @@ msgid ""
 msgstr "نتایج <b class=\"text-primary\">%(search_query)s</b>"
 
 msgid "Dark"
-msgstr ""
+msgstr "تاریک"
 
 #, fuzzy
 #| msgid "Username"
@@ -585,7 +585,7 @@ msgid "User dark mode."
 msgstr "نام کاربری"
 
 msgid "Author"
-msgstr ""
+msgstr "نویسنده"
 
 msgid "Display blog"
 msgstr ""
@@ -643,7 +643,7 @@ msgid "Results for \"%(search_query)s\""
 msgstr "نتایج برای %(search_query)s"
 
 msgid "No underline"
-msgstr ""
+msgstr "بدون زیر خط"
 
 msgid "Remove underline effect when hovering on links."
 msgstr ""
@@ -654,10 +654,10 @@ msgid " Search "
 msgstr "جستجو"
 
 msgid "Recent Posts"
-msgstr ""
+msgstr "آخرین نوشته ها"
 
 msgid "Popular Tags"
-msgstr ""
+msgstr "برچسب های معروف"
 
 #, fuzzy, python-format
 #| msgid "Results for <b class=\"text-primary\">%(search_query)s</b>"
@@ -714,10 +714,10 @@ msgid "Delete comment"
 msgstr ""
 
 msgid "Cancel"
-msgstr ""
+msgstr "لغو"
 
 msgid "Save"
-msgstr ""
+msgstr "ذخیره"
 
 msgid "Be the first to comment."
 msgstr "اولین نفر باشید که نظر میدهد."
