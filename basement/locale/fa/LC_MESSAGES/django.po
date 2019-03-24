@@ -27,7 +27,7 @@ msgid "Subject"
 msgstr "موضوع"
 
 msgid "Create your blog for free"
-msgstr ""
+msgstr "وبلاگ خود را به رایگان بسازید"
 
 msgid ""
 "Create your own unique blog for free with customizable themes and advanced "
@@ -35,13 +35,13 @@ msgid ""
 msgstr ""
 
 msgid "Explore GoNevis"
-msgstr ""
+msgstr "کاوش نویس"
 
 msgid "Explore latest posts on GoNevis and find creative bloggers to follow."
 msgstr ""
 
 msgid "Pricing"
-msgstr ""
+msgstr "تعرفه ها"
 
 msgid "Terms of Service"
 msgstr "شرایط استفاده"
