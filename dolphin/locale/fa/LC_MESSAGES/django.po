@@ -18,7 +18,7 @@ msgstr ""
 "X-Generator: Poedit 1.8.11\n"
 
 msgid "Dolphin"
-msgstr "دولفین"
+msgstr "دلفین"
 
 msgid "extension"
 msgstr "نوع"
