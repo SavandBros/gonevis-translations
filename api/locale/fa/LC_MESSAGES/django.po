@@ -7,22 +7,23 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2019-03-23 19:47+0300\n"
-"Last-Translator: Alireza Savand\n"
-"Language-Team: \n"
+"PO-Revision-Date: 2019-03-25 17:16+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
+"Language-Team: Persian <http://example.com/projects/gonevis-translations/api/"
+"fa/>\n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 2.0.8\n"
+"X-Generator: Weblate 3.5.1\n"
 
 msgid "The old password is not valid."
 msgstr "رمز عبود قدیمی معتبر نیست."
 
 #, python-brace-format
 msgid "Cannot find any account registered with {email}"
-msgstr "نمی‌توان حساب‌کاربری ثبت شده‌ای با {email} پیدا کرد."
+msgstr "نمی‌توان حساب‌کاربری ثبت شده‌ای با {email} پیدا کرد"
 
 #, python-brace-format
 msgid "Username {username} exists in our database."
